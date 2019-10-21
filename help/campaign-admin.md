@@ -4,7 +4,7 @@ seo-title: Adobe Campaign —— 即将推出新的企业支持体验
 description: Adobe Campaign —— 即将推出新的企业支持体验
 seo-description: Adobe Campaign —— 即将推出新的企业支持体验
 translation-type: tm+mt
-source-git-commit: ab441fe873ce4b5d85a478290186eb1593905454
+source-git-commit: 599e17962f0e6b8067cd31f1ee4f92a721af5784
 
 ---
 
@@ -23,10 +23,10 @@ source-git-commit: ab441fe873ce4b5d85a478290186eb1593905454
 
 我们的记录表明您是您组织 **内的指定系统管理员**，负责管理和提交这些Adobe产品的支持请求。
 
-作为系统管理员，您有权访 [!DNL Adobe Admin Console Support Tab] 问以下权限：
+作为系统管理员，您有权访 [!DNL Adobe Admin Console Support Portal] 问以下权限：
 
 * 探索改进的案例管理功能
-* 方便地发起与 [!DNL Adobe Customer Care]
+* 方便地发起与 [!DNL Adobe Customer Support]
 * 授予支持用户访问门户的权限
 
 >[!NOTE]
