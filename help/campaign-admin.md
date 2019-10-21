@@ -4,7 +4,7 @@ seo-title: Adobe Campaign —— 即将推出新的企业支持体验
 description: Adobe Campaign —— 即将推出新的企业支持体验
 seo-description: Adobe Campaign —— 即将推出新的企业支持体验
 translation-type: tm+mt
-source-git-commit: 599e17962f0e6b8067cd31f1ee4f92a721af5784
+source-git-commit: 04916e8a64ca2043e5fdc08b89fdb174acb694af
 
 ---
 
@@ -30,7 +30,7 @@ source-git-commit: 599e17962f0e6b8067cd31f1ee4f92a721af5784
 * 授予支持用户访问门户的权限
 
 >[!NOTE]
->请在2019年11月4日之前完成并提交，以确认您作为贵组织的Adobe Experience Manager/Adobe Campaign产品的系统管理员接受此角色（或提供替代联系人）。 [!DNL System Admin Confirmation Form]\
+>请在2019年11月4日之前完成并提交，以确认您作为贵组织的Adobe Campaign产品的系统管理员接受此角色(或提供替代联 [!DNL System Admin Confirmation Form] 系人)。\
 >填写此表单后，它将确保向贵组织的指定系统管理员分配相应的凭据。
 
 提交后 [!DNL System Admin Confirmation Form]，您此时不需要执行任何其他操作。  我们将在2020年初就后续步骤与系统管理员联系。
