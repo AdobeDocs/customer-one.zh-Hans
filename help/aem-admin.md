@@ -4,7 +4,7 @@ seo-title: Adobe Experience Manager —— 即将推出新的支持体验
 description: Adobe Experience Manager —— 即将推出新的支持体验
 seo-description: Adobe Experience Manager —— 即将推出新的支持体验
 translation-type: tm+mt
-source-git-commit: 599e17962f0e6b8067cd31f1ee4f92a721af5784
+source-git-commit: aa0606f8a5f1134478cb4b081e03c1bea3e151e7
 
 ---
 
@@ -29,7 +29,9 @@ source-git-commit: 599e17962f0e6b8067cd31f1ee4f92a721af5784
 * 方便地发起与 [!DNL Adobe Customer Support]
 * 授予支持用户访问门户的权限
 
-请在2019年11月4日之前填写并提交 [[!DNL系统管理员确认表]](https://adobe.allegiancetech.com/cgi-bin/qwebcorporate.dll?idx=SSSVH6) ，确认您接受此角色（或提供替代联系人）作为贵组织的Adobe Experience Manager/Adobe Campaign产品的系统管理员。  填写此表单后，它将确保向贵组织的指定系统管理员分配相应的凭据。
+>[!NOTE]
+>请在2019年11月4日之前填写并提交 **[!DNL系统管理员确认表]，确认您接受此角色（或提供替代联系人）作为贵组织的Adobe Experience Manager产品的系统管理员[](https://adobe.allegiancetech.com/cgi-bin/qwebcorporate.dll?idx=SSSVH6)**。
+>填写此表单后，它将确保向贵组织的指定系统管理员分配相应的凭据。
 
 收到[!DNL系统管理员确认表]后，将 [发送电子邮件确认](https://adobe.allegiancetech.com/cgi-bin/qwebcorporate.dll?idx=SSSVH6)。
 
