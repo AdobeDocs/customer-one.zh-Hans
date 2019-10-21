@@ -4,7 +4,7 @@ description: 您的新Adobe客户支持体验即将到来- AEM部署联系
 seo-title: 您的新Adobe客户支持体验即将到来- AEM部署联系
 seo-description: 您的新Adobe客户支持体验即将到来- AEM部署联系
 translation-type: tm+mt
-source-git-commit: 599e17962f0e6b8067cd31f1ee4f92a721af5784
+source-git-commit: 17aec30cc46915788f30b9f2042ccb8a6ce6fdbf
 
 ---
 
@@ -27,7 +27,9 @@ source-git-commit: 599e17962f0e6b8067cd31f1ee4f92a721af5784
 * 方便地发起与 [!DNL Adobe Customer Support]
 * 授予支持用户访问门户的权限
 
-请在2019年11月4日之前填写并提交 [[!DNL系统管理员确认表]](https://adobe.allegiancetech.com/cgi-bin/qwebcorporate.dll?idx=N5M8RY) ，确认您接受此角色（或提供替代联系人）作为贵组织的Adobe Experience Manager/Adobe Campaign产品的系统管理员。 填写此表单后，它将确保向贵组织的指定系统管理员分配相应的凭据，并允许我们提供更多详细信息以帮助贵组织为即将进行的更改做好准备。
+>[!NOTE]
+>请在2019年11月4日之前填写并提交 **[!DNL系统管理员确认表]，确认您接受此角色（或提供替代联系人）作为贵组织的Adobe Experience Manager产品的系统管理员[](https://adobe.allegiancetech.com/cgi-bin/qwebcorporate.dll?idx=N5M8RY)**。
+>填写此表单后，它将确保向贵组织的指定系统管理员分配相应的凭据，并允许我们提供更多详细信息以帮助贵组织为即将进行的更改做好准备。
 
 收到[!DNL系统管理员确认表]后，将 [发送电子邮件确认](https://adobe.allegiancetech.com/cgi-bin/qwebcorporate.dll?idx=N5M8RY)。
 
