@@ -1,10 +1,10 @@
 ---
-title: 您的新Adobe客户支持体验即将到来- Campaign部署联系人
-description: 您的新Adobe客户支持体验即将到来- Campaign部署联系人
-seo-title: 您的新Adobe客户支持体验即将到来- Campaign部署联系人
-seo-description: 您的新Adobe客户支持体验即将到来- Campaign部署联系人
+title: 您的新Adobe客户支持体验即将到来- [!DNL Campaign]部署联系人
+description: 您的新Adobe客户支持体验即将到来- [!DNL Campaign]部署联系人
+seo-title: 您的新Adobe客户支持体验即将到来- [!DNL Campaign]部署联系人
+seo-description: 您的新Adobe客户支持体验即将到来- [!DNL Campaign]部署联系人
 translation-type: tm+mt
-source-git-commit: 71e000e4c5c63f67550109acc5cfc35569af972f
+source-git-commit: 3e4fe23a3795d9aa4e217f614b546fa3fbaa09cc
 
 ---
 
