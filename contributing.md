@@ -1,29 +1,29 @@
 ---
 source-git-commit: 02e2be1975b796b31595de4cdc3175e77ddc4829
-translation-type: tm+mt
+translation-type: ht
 
 ---
-# 贡献
+# 参与
 
-感谢您选择贡献！
+感谢选择参与！
 
-以下是为此项目提供帮助时应遵循的一组准则。
+以下是在参与此项目时需遵守的准则。
 
 ## 行为准则
 
-本项目遵守Adobe [行为准则](code-of-conduct.md)。 通过参与，您应遵守本准则。 请向Grp-opensourceoffice@adobe.com报告不可接受的[行为](mailto:Grp-opensourceoffice@adobe.com)。
+本项目遵守 Adobe [行为准则](code-of-conduct.md)。您参与本项目，即表示同意遵守本行为准则。请将不可接受的行为报告至 [Grp-opensourceoffice@adobe.com](mailto:Grp-opensourceoffice@adobe.com)。
 
-## 有问题吗？
+## 有问题？
 
-首先，提交问题。 此项目的现有提交者努力就项目方向达成共识，并在问题线程内（如果适用）发布解决方案。
+先提交问题。此项目的现有提交者致力于就项目方向，以及根据问题线索对问题解决方案达成共识（情况适当时）。
 
 ## 参与者许可协议
 
-所有第三方对此项目的捐款都必须随附一份签字的捐款许可协议。 这使Adobe有权将您的作品作为项目的一部分进行再分发。 [签署CLA](https://opensource.adobe.com/cla.html)。 您只需提交一次Adobe CLA，因此，如果您之前已提交过一个CLA，您就可以了！
+所有第三方参与此项目都必须签署参与者许可协议。签署许可协议后，Adobe 即有权将您的参与作为项目的一部分进行重新分发。[签署我们的 CLA](https://opensource.adobe.com/cla.html)。您只需提交一次 Adobe CLA。所以，如果您之前已经提交过，无需再次提交！
 
-## 代码审阅
+## 行为准则审核
 
-所有提交应以拉取请求的形式提交，并需由项目提交者审查。 请阅 [读GitHub的拉取请求文档](https://help.github.com/articles/about-pull-requests/)，了解有关发送拉取请求的更多信息。
+所有提交均应以拉取请求的形式完成，并且需要由项目提交者进行审核。请阅读 [GitHub 的拉取请求文档](https://help.github.com/cn/articles/about-pull-requests/)，了解有关发送拉取请求的更多信息。
 
 <!--
 Lastly, please follow the [pull request template](PULL_REQUEST_TEMPLATE.md) when
@@ -32,8 +32,8 @@ submitting a pull request!
 
 ## 从参与者到提交者
 
-我们喜欢来自我们社区的贡献！ 如果您希望超越贡献者并成为具有完全写入访问权限的提交者并在项目中拥有发言权，则必须邀请您加入项目。 现有提交者采用内部提名过程，在发出邀请前必须达成懒惰的共识（沉默即批准）。 如果您觉得自己有资格并希望更深入地参与其中，请随时与现有提交者联系，就此进行交谈。
+非常欢迎大家积极参与我们的社区！如果您希望不仅仅作为贡献者，而是想要成为提交者，以便在项目中具有完全写入访问权限并拥有发言权，则必须被邀请到项目中。现有提交者采用内部提名流程，在发出邀请前必须达成“懒惰共识”（也就是沉默即批准）。如果您觉得自己符合要求并且希望更深入地参与，请与现有提交者联系，就相关事宜进行交谈。
 
-## 安全问题
+## 安全性问题
 
-不应在此问题跟踪器上报告安全问题。 相反，请 [向我们的安全专家提出问题](https://helpx.adobe.com/security/alertus.html)
+不应在此问题追踪程序上报告安全性问题，而是请[将安全性问题报告给我们的安全专家](https://helpx.adobe.com/cn/security/alertus.html)
