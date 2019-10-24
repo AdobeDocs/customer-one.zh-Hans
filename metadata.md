@@ -1,30 +1,30 @@
 ---
 cloud: experience-cloud
 solution-title: 学习和支持
-solution-hub-url: https://helpx.adobe.com/support/experience-cloud.html
+solution-hub-url: https://helpx.adobe.com/cn/support/experience-cloud.html
 solution-image: help/assets/experience-cloud-logo-24.png
-getting-started-title: 入门
+getting-started-title: 快速入门
 getting-started-url: https://experienceleague.adobe.com/
 tutorials-title: 教程
 tutorials-url: https://experienceleague.adobe.com/
 git-repo: https://git.corp.adobe.com/AdobeDocs/customer-one.en
 index: false
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 30844dc968b7d94b2cb29d92917a08f6cf322144
 
 ---
 
 
-# 元数据供内部使用
+# 供内部使用的元数据
 
-metadata.md文件包括传递给回购协议中的用户指南TOC.md文件的回购协议级元数据。 如果要更改任何用户指南的metadata.md内容，请在任何TOC.md文件中进行更改。
+metadata.md 文件中包含 repo 级别的元数据，这些元数据可以传递到 repo 中的用户指南 TOC.md 文件。如果要更改任何用户指南的 metadata.md 内容，请在 TOC.md 文件中进行更改。
 
-| 元数据 | 它的功能 |
+| 元数据 | 功能 |
 |--- |--- |
-| 解决方案标题 | 在文章标题中用作链接 |
-| solution-hub-url | 打开helpx中心页 |
-| 解决方案图标 | 在解决方案标题旁边显示解决方案图标。 尚未实施 |
-| getting-started-url | 帮助快速入门页的链接 |
-| 教程-url | 链接到视频教程——帮助教程或KT教程 |
-| 微目录级别 | 确定显示在右边栏中的标题级别数。 默认为2 |
-| git-repo | 指定主存储库的内部使用位置 |
+| solution-title | 在文章标头中用作链接 |
+| solution-hub-url | 打开 helpx 中心页面 |
+| solution-icon | 在解决方案标题旁边显示解决方案图标。尚未实施 |
+| getting-started-url | helpx 快速入门页面的链接 |
+| tutorials-url | 视频教程的链接 - helpx 教程或 KT 教程 |
+| mini-toc-levels | 确定显示在右边栏中的标题级别数。默认为 2 |
+| git-repo | 指定供内部使用的主 repo 的位置 |
