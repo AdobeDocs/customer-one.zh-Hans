@@ -1,25 +1,25 @@
 ---
-title: Adobe Experience cloud企业版客户一
-description: 新的Adobe客户支持体验
-seo-description: 新的Adobe客户支持体验
-seo-title: Adobe Experience cloud企业版客户一
-translation-type: tm+mt
+title: Adobe Experience Cloud Customer One for Enterprise
+description: 新的 Adobe 客户支持体验
+seo-description: 新的 Adobe 客户支持体验
+seo-title: Adobe Experience Cloud Customer One for Enterprise
+translation-type: ht
 source-git-commit: 54678a0343783836ae123eecc544b5b26af76705
 
 ---
 
 
-# 新的Adobe客户支持体验
+# 新的 Adobe 客户支持体验
 
-我们正在为Adobe Experience manager和Adobe Campaign客户改进一些关键的支持体验。
+我们正在为 Adobe Experience Manager 和 Adobe Campaign 客户的支持体验进行一些关键的增强。
 
-我们计划在2020年4月/5月推出这些更改，它们将允许您的组织通过一个通用入口门户访问和 [!DNL Adobe Customer Support] 提供对服务历史的更多可见性。
+我们计划在 2020 年 4 月/ 5 月推出这些更改，这些更改将使您的组织可以访问 [!DNL Adobe Customer Support]，并通过通用的入口门户更好地了解您的服务历史。
 
-我们将继续向您的组织提供更多信息，因为我们将更快地推出。
+随着我们逐步推出，我们将继续为您的组织提供更多信息。
 
 ## 更多信息
 
-有关Adobe Experience cloud解决方案的更多信息，请单击以下列表：
+有关 Adobe Experience Cloud 解决方案的更多信息，请单击下面列出的相关链接：
 
 * [Adobe Campaign](campaign-list.md)
 * [Adobe Experience Manager](aem-list.md)
