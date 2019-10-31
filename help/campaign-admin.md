@@ -1,40 +1,40 @@
 ---
-title: '[!DNL Campaign] —— 即将推出新的支持体验'
-seo-title: Adobe Campaign —— 即将推出新的企业支持体验
-description: Adobe Campaign —— 即将推出新的企业支持体验
-seo-description: Adobe Campaign —— 即将推出新的企业支持体验
-translation-type: tm+mt
+title: '[!DNL Campaign] - 即将推出新的支持体验'
+seo-title: Adobe Campaign - 即将推出新的企业支持体验
+description: Adobe Campaign - 即将推出新的企业支持体验
+seo-description: Adobe Campaign - 即将推出新的企业支持体验
+translation-type: ht
 source-git-commit: c991cbe424e622d24360fcd78640ea3f8079bc84
 
 ---
 
 
-# [!DNL Campaign] -即将推出新的支持体验
+# [!DNL Campaign] - 即将推出新的支持体验
 
-**2019年10月21日**
+**2019 年 10 月 21 日**
 
-我们正在为Adobe Campaign客户改进一些关键的支持体验。 我们计 *划在2020年4月/5月推出这些更改*[!DNL Adobe Customer Support] ，这些更改将允许您的组织通过一个公共入口门户访问和更深入地了解您的服务历史。
+我们正在努力对 Adobe Campaign 客户的支持体验进行一些关键的改进。我们计划在 *2020 年 4 月/ 5 月*&#x200B;推出一些更改。这些更改将使您的组织可以访问 [!DNL Adobe Customer Support]，并通过通用的入口门户更好地了解您的服务历史。
 
-我们将继续向您的组织提供更多信息，因为我们将更快地推出。
+随着我们逐步推出，我们将继续为您的组织提供更多信息。
 
-要开始，我们需要您的帮助来确认谁将代表您的组织担任系统管理员。
+首先，我们需要您的帮助来确认谁将代表您的组织成为系统管理员。
 
-## 操作：确认您的系统管理员（系统管理员）
+## 操作：确认系统管理员（系统管理员）
 
-我们的记录表明您是您组织 **内的指定系统管理员**，负责管理和提交这些Adobe产品的支持请求。
+我们的记录表明您是&#x200B;**您组织内的指定系统管理员**，负责管理和提交这些Adobe产品的支持请求。
 
-作为系统管理员，您有权访 [!DNL Adobe Admin Console Support Portal] 问以下权限：
+作为系统管理员，您可以访问 [!DNL Adobe Admin Console Support Portal]，该门户使您能够：
 
-* 探索改进的案例管理功能
-* 方便地发起与 [!DNL Adobe Customer Support]
+* 浏览改进后的案例管理功能
+* 通过 [!DNL Adobe Customer Support] 方便地发起聊天对话
 * 授予支持用户访问门户的权限
 
 >[!NOTE]
->请在2019年11月4日之前完成并提交，以确认您作为贵组织的Adobe Campaign产品的系统管理员接受此角色(或提供替代联 [!DNL System Admin Confirmation Form] 系人)。\
->填写此表单后，它将确保向贵组织的指定系统管理员分配相应的凭据。
+>请在 2019 年 11 月 4 日之前完成并提交 [!DNL System Admin Confirmation Form]，以确认您接受此角色（或提供替代的联系人）作为您组织的 Adobe Campaign 产品的系统管理员。\
+>填写此表格后，适当的凭据将分配给您组织的指定系统管理员。
 
-提交后 [!DNL System Admin Confirmation Form]，您此时不需要执行任何其他操作。  我们将在2020年初就后续步骤与系统管理员联系。
+提交 [!DNL System Admin Confirmation Form] 后，您此时无需采取任何其他措施。我们将在 2020 年初就下一步的步骤与系统管理员联系。
 
-有关此电子邮件的疑问，请通过customercare@adobe.com与我们联系。
+如果对本电子邮件有任何疑问，请通过 customercare@adobe.com 与我们联系。
 
-向您致谢并感谢您的协助。
+谢谢您的协助。
