@@ -1,19 +1,19 @@
 ---
-title: '[!DNL营销活动]声明'
-description: '[!DNL Campaign]声明（按日期）'
-seo-title: '[!DNL营销活动]声明'
-seo-description: '[!DNL营销活动]声明'
-translation-type: tm+mt
+title: '[!DNL Campaign] 通知'
+description: 按日期列出的 [!DNL Campaign] 通知
+seo-title: '[!DNL Campaign] 通知'
+seo-description: '[!DNL Campaign] 通知'
+translation-type: ht
 source-git-commit: 84c6cffc5b7e9e060731384a6695fded451be3b9
 
 ---
 
 
-# [!DNL Campaign] 声明
+# [!DNL Campaign] 通知
 
-## Adobe Campaign客户的通知，按日期。
+## 按日期列出的 Adobe Campaign 客户通知。
 
-客户通知的完整列 [!DNL Campaign] 表
+面向 [!DNL Campaign] 客户的完整通知列表
 
-* [营销活动系统管理员通知，2019年10月21日](campaign-admin.md)
-* [营销活动部署联系通知，2019年10月21日](campaign-deploy.md)
+* [Campaign 系统管理员通知 - 2019 年 10 月 21 日](campaign-admin.md)
+* [Campaign 部署联系人通知 - 2019 年 10 月 21 日](campaign-deploy.md)
