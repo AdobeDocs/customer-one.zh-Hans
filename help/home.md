@@ -3,7 +3,7 @@ title: Adobe Experience Cloud Customer One for Enterprise
 description: 新的 Adobe 客户支持体验
 seo-description: 新的 Adobe 客户支持体验
 seo-title: Adobe Experience Cloud Customer One for Enterprise
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: f76c32d1071bd2a6f573721d73026242d3398da4
 
 ---
@@ -19,7 +19,7 @@ source-git-commit: f76c32d1071bd2a6f573721d73026242d3398da4
 
 ## 更多信息
 
-单击以下列表可了解有关Adobe Experience cloud解决方案中新客户支持体验的更多信息：
+有关 Adobe Experience Cloud 解决方案中新客户支持体验的更多信息，请单击以下列表：
 
 * [Adobe Campaign](campaign-list.md)
 * [Adobe Experience Manager](aem-list.md)
