@@ -3,7 +3,7 @@ title: '[!DNL Campaign] - 即将推出新的支持体验'
 seo-title: Adobe Campaign - 即将推出新的企业支持体验
 description: Adobe Campaign - 即将推出新的企业支持体验
 seo-description: Adobe Campaign - 即将推出新的企业支持体验
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 85695d0bbd02d3ffd2286cdaa643551340b5d09d
 
 ---
@@ -33,7 +33,7 @@ source-git-commit: 85695d0bbd02d3ffd2286cdaa643551340b5d09d
 >请在 **2019 年 11 月 4 日之前完成并提交[[!DNL 系统管理员确认表]](https://adobe.allegiancetech.com/cgi-bin/qwebcorporate.dll?idx=SSSVH6)**，以确认您接受此角色（或提供替代的联系人）作为贵组织的 Adobe Campaign 产品的系统管理员。
 >填写此表格后，适当的凭据将分配给您组织的指定系统管理员。
 
-收到电子邮件后将发送确认信 [!DNL System Admin Confirmation Form]息。
+收到 [!DNL System Admin Confirmation Form] 时将发送电子邮件确认。
 
 如果对本电子邮件有任何疑问，请通过 customercare@adobe.com 与我们联系。
 
