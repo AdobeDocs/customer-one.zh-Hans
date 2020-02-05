@@ -1,7 +1,7 @@
 ---
 title: Adobe Experience Cloud Customer One for Enterprise
-description: 全新的 Adobe 客户支持体验
-seo-description: 全新的 Adobe 客户支持体验
+description: 新的 Adobe 客户支持体验
+seo-description: 新的 Adobe 客户支持体验
 seo-title: Adobe Experience Cloud Customer One for Enterprise
 translation-type: tm+mt
 source-git-commit: 2ec9dd9ee15fa5c66a555fb876315e0697635e90
@@ -9,11 +9,11 @@ source-git-commit: 2ec9dd9ee15fa5c66a555fb876315e0697635e90
 ---
 
 
-# 全新的 Adobe 客户支持体验
+# 新的 Adobe 客户支持体验
 
 我们关心客户，并努力在客户需要帮助时更轻松地从Adobe客户支持获得帮助——从Adobe Experience manager和Campaign产品开始。 我们的愿景是，通过转到Adobe Admin Console支持门户这一现代化的入门门户来简化支持体验。 我们计划在2020年5月推出这些更改。  实施后，贵组织将能够访问Adobe客户支持；通过通用的入口门户更清楚地了解您的服务历史；并通过一个门户通过电话、网络和聊天请求帮助。
 
-随着实施日期的逐渐临近，我们将继续向贵组织提供更多相关信息。
+随着我们逐步推出，我们将继续为您的组织提供更多信息。
 
 ## 更多信息
 
