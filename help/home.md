@@ -3,7 +3,7 @@ title: Adobe Experience Cloud Customer One for Enterprise
 description: 新的 Adobe 客户支持体验
 seo-description: 新的 Adobe 客户支持体验
 seo-title: Adobe Experience Cloud Customer One for Enterprise
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 2ec9dd9ee15fa5c66a555fb876315e0697635e90
 
 ---
@@ -11,39 +11,39 @@ source-git-commit: 2ec9dd9ee15fa5c66a555fb876315e0697635e90
 
 # 新的 Adobe 客户支持体验
 
-我们关心客户，并努力在客户需要帮助时更轻松地从Adobe客户支持获得帮助——从Adobe Experience manager和Campaign产品开始。 我们的愿景是，通过转到Adobe Admin Console支持门户这一现代化的入门门户来简化支持体验。 我们计划在2020年5月推出这些更改。  实施后，贵组织将能够访问Adobe客户支持；通过通用的入口门户更清楚地了解您的服务历史；并通过一个门户通过电话、网络和聊天请求帮助。
+我们关心客户，并努力使我们的客户在需要帮助时更轻松地从 Adobe 客户支持获取帮助 - 这里我们从 Adobe Experience Manager 和 Campaign 产品开始。我们的愿景是通过迁移到现代化的入门门户 Adobe Admin Console 支持门户来简化支持体验。我们计划于 2020 年 5 月推出这些更改。一旦启用，您的组织将可以访问 Adobe 客户支持；通过公共入口门户可以更深入地了解您的服务历史；并通过电话、网络和通过单个门户的聊天来请求帮助。
 
 随着我们逐步推出，我们将继续为您的组织提供更多信息。
 
 ## 更多信息
 
-2月和3月，Adobe将在此门户中设置新的支持系统管理员和支持用户。  如果我们的记录表明您当前在Adobe Admin Console中担任支持系统管理员——或者，您的姓名在购买合同中列为Adobe在您的组织内部署Adobe Campaign和／或Adobe Experience Manager的客户联系人，您将被设置为您组织的支持系统管理员。
+在 2 月和 3 月，Adobe 将在此门户中同时设置新的支持系统管理员和支持用户。如果我们的记录表明您当前在 Adobe 的 Admin Console 中担任支持系统管理员 - 或 - 您的姓名在购买合同中列为 Adobe 的客户联系人，用于在组织内部署 Adobe Campaign 和/或 Adobe Experience Manager，那么您将成为您组织的支持系统管理员。
 
-支持系统管理员将在管理控制台中充当超级用户，并且每当创建新的支持用户时，都会看到系统生成的电子邮件。  此外，他们将能够：
+支持系统管理员将在 Admin Console 中行使充当超级用户的权力，并且每当有新的支持用户创建时，支持系统管理员都会看到系统生成的电子邮件。此外，他们还将能够：
 
-* 在门户中创建／删除支持用户并管理访问角色
-* 利用案例管理工具，通过Adobe客户支持更轻松地处理支持案例
-* 与Adobe客户支持轻松发起聊天对话
+* 在门户中创建/删除支持用户，并管理访问角色
+* 利用案例管理工具，借助 Adobe 客户支持可以更轻松地处理支持案例
+* 通过 Adobe 客户支持，方便地发起聊天对话
 
-## 未来几个月的预期
+## 未来几个月的工作安排
 
-### 2月——用户设置
+### 2 月 - 设置用户
 
-* Adobe将设置已知的系统管理员；新系统中的合同联系人和已知支持用户
-* 系统生成的电子邮件已发送——用户设置并实时系统，仅供用户创建／验证
+* Adobe 将在新系统中设置已知的系统管理员、合同联系人和已知的支持用户
+* 发送系统生成的电子邮件 - 用于此阶段的用户设置及系统上线所需要的用户创建/验证
 
-### 3月——用户验证
+### 3 月 - 用户验证
 
-* Adobe将联系系统管理员／合同联系人以执行后续步骤系统管理员／合同联系人以验证现有支持用户并在新系统中创建任何缺少的支持用户
+* Adobe 将联系系统管理员/合同联系人以执行后续步骤 - 系统管理员/合同联系人将在新系统中验证现有的支持用户，并创建任何缺失的支持用户
 
-### 4月——启用
+### 4 月 - 启用
 
-* Adobe将向所有支持系统用户提供学习材料
-* 系统管理员／合同联系人以最终确定支持用户设置和角色
+* Adobe 将向所有支持系统用户提供学习资料
+* 联系系统管理员/合同联系人，以最终确定支持用户设置和角色
 
-### 五月——启动！
+### 5 月 - 发布！
 
-* Adobe将宣布推出新系统
+* Adobe 将宣布推出新系统
 * 客户开始使用新系统
 
-For questions regarding this email, please contact us at [customercare@adobe.com](mailto:customercare@adobe.com).
+如果您对这封电子邮件有任何疑问，请通过 [customercare@adobe.com](mailto:customercare@adobe.com) 与我们联系。
