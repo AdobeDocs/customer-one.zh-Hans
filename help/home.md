@@ -1,7 +1,7 @@
 ---
 title: Adobe Experience Cloud Customer One for Enterprise
-description: 全新的 Adobe 客户支持体验
-seo-description: 全新的 Adobe 客户支持体验
+description: 新的 Adobe 客户支持体验
+seo-description: 新的 Adobe 客户支持体验
 seo-title: Adobe Experience Cloud Customer One for Enterprise
 translation-type: tm+mt
 source-git-commit: 7e03c93bc3f92c87c4f2b1a6f8e04d0bb76e55aa
@@ -9,7 +9,7 @@ source-git-commit: 7e03c93bc3f92c87c4f2b1a6f8e04d0bb76e55aa
 ---
 
 
-# 全新的 Adobe 客户支持体验
+# 新的 Adobe 客户支持体验
 
 ## 我们很高兴地宣布在2020年4月/5月启动Adobe Admin Console支持门户！
 
@@ -47,4 +47,4 @@ source-git-commit: 7e03c93bc3f92c87c4f2b1a6f8e04d0bb76e55aa
 在5月11日之前，您仍可以使用旧版 [活动Extranet](https://support.neolane.net/webApp/extranetLogin) 或 [](https://daycare.day.com/home.html) Experience Manager Daycare案例管理系统。  在5月11日之后，您将被重定向到 [Admin Console](https://adminconsole.adobe.com/) ，因为这些系统将在此时停止使用。
 
 
-For questions regarding this email, please contact us at [customercare@adobe.com](mailto:customercare@adobe.com).
+如果您对这封电子邮件有任何疑问，请通过 [customercare@adobe.com](mailto:customercare@adobe.com) 与我们联系。
