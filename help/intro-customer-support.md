@@ -1,7 +1,7 @@
 ---
-title: 宣布新的Adobe客户支持体验
-description: 第一次客户沟通以获得新的支持体验
-translation-type: tm+mt
+title: 宣布推出新的 Adobe 客户支持体验
+description: 首次与客户沟通以提供新的支持体验
+translation-type: ht
 source-git-commit: e98a5930271ee715cc8d634e7ebb39de5ac214b9
 
 ---
@@ -9,7 +9,7 @@ source-git-commit: e98a5930271ee715cc8d634e7ebb39de5ac214b9
 
 # 新的 Adobe 客户支持体验
 
-我们关心客户，并努力使我们的客户在需要帮助时更轻松地从 Adobe 客户支持获取帮助 - 这里我们从 Adobe Experience Manager 和 Campaign 产品开始。我们的愿景是通过迁移到现代化的入门门户 Adobe Admin Console 支持门户来简化支持体验。我们计划于 2020 年 5 月推出这些更改。一旦启用，您的组织将可以访问 Adobe 客户支持；通过公共入口门户可以更深入地了解您的服务历史；并通过电话、网络和通过单个门户的聊天来请求帮助。
+我们关心客户，并努力使我们的客户在需要帮助时更轻松地从 Adobe 客户支持获取帮助 - 这里我们从 Adobe Experience Manager 和 Campaign 产品开始。我们的愿景是通过迁移到现代化的入门门户 Adobe Admin Console 支持门户来简化支持体验。我们计划于 2020 年 5 月推出这些更改。一旦上线，您的组织将可以访问 Adobe 客户支持；通过公共入口门户更深入地了解您的服务历史；并且，在此单一门户，通过电话、网络和聊天请求帮助。
 
 ## 更多信息
 
