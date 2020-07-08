@@ -3,9 +3,9 @@ title: AEM - 即将推出新的支持体验
 seo-title: Adobe Experience Manager - 即将推出新的支持体验
 description: Adobe Experience Manager - 即将推出新的支持体验
 seo-description: Adobe Experience Manager - 即将推出新的支持体验
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: a78e81c0f45ca3f2fb9e8dfda6babada819aa3c1
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '283'
 ht-degree: 100%
 
