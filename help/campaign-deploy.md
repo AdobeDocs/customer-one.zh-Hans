@@ -1,18 +1,18 @@
 ---
-title: Your New Adobe Customer Support Experience is Coming - [!DNL Campaign] deploy contact
-description: Your New Adobe Customer Support Experience is Coming - [!DNL Campaign] deploy contact
-seo-title: Your New Adobe Customer Support Experience is Coming - [!DNL Campaign] deploy contact
-seo-description: Your New Adobe Customer Support Experience is Coming - [!DNL Campaign] deploy contact
-translation-type: tm+mt
+title: 即将推出全新的 Adobe 客户支持体验 - [!DNL Campaign] 部署联系人
+description: 即将推出全新的 Adobe 客户支持体验 - [!DNL Campaign] 部署联系人
+seo-title: 即将推出全新的 Adobe 客户支持体验 - [!DNL Campaign] 部署联系人
+seo-description: 即将推出全新的 Adobe 客户支持体验 - [!DNL Campaign] 部署联系人
+translation-type: ht
 source-git-commit: a78e81c0f45ca3f2fb9e8dfda6babada819aa3c1
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '340'
-ht-degree: 88%
+ht-degree: 100%
 
 ---
 
 
-# 您即将获得新的 Adobe 客户支持体验
+# 即将推出全新的 Adobe 客户支持体验
 
 **2019 年 10 月 21 日**
 
