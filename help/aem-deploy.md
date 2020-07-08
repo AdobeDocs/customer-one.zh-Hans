@@ -3,9 +3,9 @@ title: 即将推出全新的 Adobe 客户支持体验 - AEM 部署联系人
 description: 即将推出全新的 Adobe 客户支持体验 - AEM 部署联系人
 seo-title: 即将推出全新的 Adobe 客户支持体验 - AEM 部署联系人
 seo-description: 即将推出全新的 Adobe 客户支持体验 - AEM 部署联系人
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: a78e81c0f45ca3f2fb9e8dfda6babada819aa3c1
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '342'
 ht-degree: 100%
 
