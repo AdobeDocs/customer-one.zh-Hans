@@ -1,62 +1,92 @@
 ---
+keywords: Experience Platform支持；平台支持；智能服务支持；客户人工智能支持；归因人工智能支持；rtcdp支持；提交支持票证；客户支持
 title: Adobe Experience Cloud Customer One for Enterprise
-description: 新的 Adobe 客户支持体验
-seo-description: 新的 Adobe 客户支持体验
+description: 全新的 Adobe 客户支持体验
+seo-description: 全新的 Adobe 客户支持体验
 seo-title: Adobe Experience Cloud Customer One for Enterprise
-translation-type: ht
-source-git-commit: 15f3575335be07de0cf6c2926b5a05f8253f21ef
-workflow-type: ht
-source-wordcount: '490'
-ht-degree: 100%
+exl-id: 276e0862-6f7e-491e-b63e-10a50b7238c2
+source-git-commit: 357138a560041a9832cfe8a4f61ec8724b73ba41
+workflow-type: tm+mt
+source-wordcount: '801'
+ht-degree: 3%
 
 ---
 
+# 全新的 Adobe 客户支持体验
 
-# 新的 Adobe 客户支持体验
+## Admin Console支持票证
 
-## Admin Console 支持票证
+我们很高兴地宣布，Adobe客户支持体验自2020年5月11日起正式上线！
 
-我们很高兴地宣布，Adobe 客户支持体验自 2020 年 5 月 11 日起正式上线！
+现在可以通过[Admin Console](https://adminconsole.adobe.com/)提交支持票证。 有关如何提交支持票证的说明，请查看[提交支持票证](#submit-ticket)的部分。
 
-现在可以通过 [Admin Console](https://adminconsole.adobe.com/) 提交支持票证
+如前所分享的，我们正在努力改进您与Adobe客户支持的交互方式，从Adobe Experience Manager和Campaign产品开始。 我们的愿景是通过使用Adobe Admin Console迁移到单个入口点来简化支持体验。 一旦上线，贵组织将能够轻松访问Adobe客户支持；通过跨产品的通用系统，更深入地了解您的服务历史；并通过单个门户通过电话、网络和聊天请求帮助。
 
-正如之前与大家分享的那样，我们正在努力改进您与 Adobe 客户支持的互动方式，首先从 Adobe Experience Manager 和 Campaign 产品开始。我们的愿景是通过使用 Adobe Admin Console 迁移到单一入口点来简化支持体验。一旦上线，您的组织将可以轻松访问 Adobe 客户支持；通过公共系统更深入地了解您的服务历史；并且，在此单一门户，通过电话、网络和聊天请求帮助。
+## 如何提交Admin Console支持票证{#submit-ticket}
 
-## 请求的客户操作
+要在[Admin Console](https://adminconsole.adobe.com/)中提交支持票证，您需要由系统管理员分配支持管理员角色。 只有您组织中的系统管理员才能分配此角色。 产品、产品配置文件和其他管理角色无法分配支持管理员角色，因此无法查看用于提交支持票证的&#x200B;**[!UICONTROL 创建案例]**&#x200B;选项。 有关更多信息，请访问[企业和团队客户关怀](https://helpx.adobe.com/enterprise/using/support-and-expert-services.html)文档。
 
-1. 查看 Admin Console 实施内容[快速入门](https://helpx.adobe.com/cn/enterprise/get-started.html)、[用户指南](https://helpx.adobe.com/cn/enterprise/managing/user-guide.html)，并了解如何[创建和管理支持案例](https://helpx.adobe.com/cn/enterprise/using/support-and-expert-services.html)
-1. 登录到 [Admin Console](https://adminconsole.adobe.com/)，并验证您是否拥有访问权限
-1. 如果您是系统管理员，请检查并验证组织内的支持用户是否准确（以下指南页面可提供帮助：[管理用户](https://helpx.adobe.com/cn/enterprise/using/users.html)和[管理团队帐户](https://helpx.adobe.com/cn/enterprise/using/accounts.html)）
+### 分配支持管理员角色
 
-## 旧版系统有什么变化？
+支持管理员角色是具有支持相关信息访问权限的非管理角色。 支持管理员可以查看、创建和管理问题报告。
 
-自 5 月 11 日起，将无法再从旧版系统中提交新票证/案例。将使用 [Admin Console](https://adminconsole.adobe.com/) 来提交新票证/案例。
+要分配支持管理员角色，请按照管理角色文档中的[编辑企业管理员角色](https://helpx.adobe.com/enterprise/using/admin-roles.html#add-admin-teams)说明操作。 请注意，只有贵组织的系统管理员才能分配此角色。 有关管理层次结构的详细信息，请访问[管理角色](https://helpx.adobe.com/enterprise/admin-guide.html/enterprise/using/admin-roles.ug.html)文档。
+
+### 使用Admin Console创建支持票证
+
+要使用[Admin Console](https://adminconsole.adobe.com/)创建票证，请选择位于顶部导航中的&#x200B;**[!UICONTROL 支持]**&#x200B;选项卡。 出现“[!UICONTROL 支持摘要]”页面。 接下来，选择&#x200B;**[!UICONTROL 创建案例]**&#x200B;选项。
+
+>[!TIP]
+>
+> 如果看不到&#x200B;**[!UICONTROL 创建案例]**&#x200B;选项或&#x200B;**[!UICONTROL 支持]**&#x200B;选项卡，则需要联系系统管理员以分配支持管理员角色。
+
+![Admin Console支持选项卡](./assets/Support.png)
+
+出现一个对话框，允许您选择问题类型。 选择最能描述您的问题或问题的问题类型，然后选择右下角的&#x200B;**[!UICONTROL 创建案例]**。
+
+![选择问题](./assets/select-case-type.png)
+
+出现&#x200B;**[!UICONTROL 创建案例]**&#x200B;对话框。 系统要求您提供一些信息，如产品、优先级、描述，以及附加任何屏幕截图，以帮助描述此问题。 选择&#x200B;**[!UICONTROL Next]**&#x200B;以继续。
+
+![创建案例](./assets/create_case.png)
+
+>[!NOTE]
+>
+> 如果问题导致生产系统中断或严重中断，将提供电话号码以立即获得帮助。
+
+下一页允许您填写联系信息，并为Adobe客户支持与您联系提供最佳时间。 完成后，选择右下方的&#x200B;**[!UICONTROL Submit]** ，您的票证即会发送给Adobe客户支持。
+
+![提交票证](./assets/submit_case.png)
+
+## 旧版系统如何？
+
+自5月11日起，将无法再在旧版系统中提交新票证/案例。  [Admin Console](https://adminconsole.adobe.com/)将用于提交新票证/案例。
 
 ### 现有票证/案例
 
-* 5 月 11 日至 5 月 20 日期间，旧版系统将可以继续处理现有的待完成票证/案例。
-* 从 5 月 20 日开始，支持团队会将剩余的未结案例从旧版系统迁移到新的支持体验。届时您将收到一封电子邮件通知，告知您如何与支持部门联系以继续处理这些案例。
+* 在5月11日到5月20日之间，旧版系统仍可用于处理现有的待完成票证/案例。
+* 从5月20日开始，支持团队会将剩余的未结案例从旧版系统迁移到新的支持体验。  您将收到一封电子邮件通知，告知您如何与支持部门联系以继续处理这些案例。
 
 ### 案例历史记录
 
-Adobe 支持人员可查看已结案例历史记录。如果您需要有关已结案案例的帮助，请参阅下面的“需要帮助？”部分。
+已结案例历史记录将对Adobe支持人员可见。  如果您需要有关已结案案例的帮助，请参阅需要帮助？ 部分。
 
 ## 需要帮助？
 
 上线后，如果您遇到问题且无法登录到新工具，您可以使用以下选项：
 
-### 选项 1：提交票证
+### 选项1:提交票证
 
-通过从 [Experience League](https://experienceleague.adobe.com/?support-solution=General#support) 记录票证与我们联系，票证中应包括：
+通过从[Experience League](https://experienceleague.adobe.com/?support-solution=General#support)记录票证与我们联系，票证中应包括：
 
 * 联系人详细信息：姓名、电子邮件地址、电话
 * 公司名称
-* 所拥有的 Adobe 产品
+* Adobe拥有的产品
 * 问题优先级
-* 问题的简要说明
+* 问题的简要描述
 
-### 选项 2：在 5 月 11 日之前
+### 选项2:5月11日之前
 
-在 5 月 11 日之前，您仍可以使用旧版 [Campaign Extranet](https://support.neolane.net/webApp/extranetLogin) 或 [Experience Manager Daycare](https://daycare.day.com/home.html) 案例管理系统。在 5 月 11 日之后，您将被重定向到 [Admin Console](https://adminconsole.adobe.com/)，因为这些系统将不会接受新案例。
+在5月11日之前，您仍可以使用旧版[Campaign Extranet](https://support.neolane.net/webApp/extranetLogin)或[Experience ManagerDaycare](https://daycare.day.com/home.html)案例管理系统。  在5月11日之后，您将被重定向到[Admin Console](https://adminconsole.adobe.com/)，因为这些系统将不接受新案例。
 
-如果对此电子邮件存有疑问，请通过从 [Experience League](https://experienceleague.adobe.com/?support-solution=General#support) 记录票证与我们联系。
+如果对此电子邮件存有疑问，请通过从[Experience League](https://experienceleague.adobe.com/?support-solution=General#support)记录票证与我们联系。
