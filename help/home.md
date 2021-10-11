@@ -2,13 +2,13 @@
 keywords: Experience Platform支持；平台支持；智能服务支持；客户人工智能支持；归因人工智能支持；rtcdp支持；提交支持票证；客户支持
 title: Adobe Experience Cloud Customer One for Enterprise
 description: 新的 Adobe 客户支持体验
-seo-description: 新的 Adobe 客户支持体验
+seo-description: New Adobe Customer Support Experience
 seo-title: Adobe Experience Cloud Customer One for Enterprise
 exl-id: 276e0862-6f7e-491e-b63e-10a50b7238c2
-source-git-commit: 4c8b47631dee3b3a4acb438dfe37ca336a8c99a8
+source-git-commit: f7c0d0ba6f3ea2bcf5b4dfd9fd138a3d011162b7
 workflow-type: tm+mt
-source-wordcount: '784'
-ht-degree: 43%
+source-wordcount: '611'
+ht-degree: 27%
 
 ---
 
@@ -20,7 +20,7 @@ ht-degree: 43%
 
 正如之前与大家分享的那样，我们正在努力改进您与 Adobe 客户支持的互动方式，首先从 Adobe Experience Manager 和 Campaign 产品开始。我们的愿景是通过使用 Adobe Admin Console 迁移到单一入口点来简化支持体验。一旦上线，贵组织将能够轻松访问Adobe客户支持；通过跨产品的通用系统，更深入地了解您的服务历史；并通过单个门户通过电话、网络和聊天请求帮助。
 
-## 如何提交Admin Console支持票证{#submit-ticket}
+## 如何提交Admin Console支持票证 {#submit-ticket}
 
 要在[Admin Console](https://adminconsole.adobe.com/)中提交支持票证，您需要由系统管理员分配支持管理员角色。 只有您组织中的系统管理员才能分配此角色。 产品、产品配置文件和其他管理角色无法分配支持管理员角色，因此无法查看用于提交支持票证的&#x200B;**[!UICONTROL 创建案例]**&#x200B;选项。 有关更多信息，请访问[企业和团队客户关怀](https://helpx.adobe.com/cn/enterprise/using/support-and-expert-services.html)文档。
 
@@ -65,26 +65,3 @@ ht-degree: 43%
 * 5 月 11 日至 5 月 20 日期间，旧版系统将可以继续处理现有的待完成票证/案例。
 * 从 5 月 20 日开始，支持团队会将剩余的未结案例从旧版系统迁移到新的支持体验。届时您将收到一封电子邮件通知，告知您如何与支持部门联系以继续处理这些案例。
 
-### 案例历史记录
-
-Adobe 支持人员可查看已结案例历史记录。如果您需要有关已结案案例的帮助，请参阅下面的“需要帮助？”部分。
-
-## 需要帮助？
-
-上线后，如果您遇到问题且无法登录到新工具，您可以使用以下选项：
-
-### 选项 1：提交票证
-
-通过从 [Experience League](https://experienceleague.adobe.com/?support-solution=General#support) 记录票证与我们联系，票证中应包括：
-
-* 联系人详细信息：姓名、电子邮件地址、电话
-* 公司名称
-* 所拥有的 Adobe 产品
-* 问题优先级
-* 问题的简要说明
-
-### 选项 2：在 5 月 11 日之前
-
-在 5 月 11 日之前，您仍可以使用旧版 [Campaign Extranet](https://support.neolane.net/webApp/extranetLogin) 或 [Experience Manager Daycare](https://daycare.day.com/home.html) 案例管理系统。在 5 月 11 日之后，您将被重定向到 [Admin Console](https://adminconsole.adobe.com/)，因为这些系统将不会接受新案例。
-
-如果对此电子邮件存有疑问，请通过从 [Experience League](https://experienceleague.adobe.com/?support-solution=General#support) 记录票证与我们联系。
