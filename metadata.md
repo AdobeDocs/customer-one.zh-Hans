@@ -9,11 +9,11 @@ tutorials-title: 教程
 tutorials-url: https://experienceleague.adobe.com/
 git-repo: https://git.corp.adobe.com/AdobeDocs/customer-one.zh-Hans
 index: false
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 50698f35a69ce3a34b41e54d6e38e05c35490351
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '128'
+ht-degree: 100%
 
 ---
 
