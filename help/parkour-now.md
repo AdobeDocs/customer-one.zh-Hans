@@ -3,10 +3,10 @@ title: 宣布推出新的Adobe客户支持体验
 description: 与客户沟通，以提供新的支持体验
 hide: true
 hidefromtoc: true
-source-git-commit: 4bd3f83f5142f53d24cfe1bdaaed4d4507fc0687
+source-git-commit: d81a6d3edb3ff82e49162db4cd00923e20dba28f
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '455'
+ht-degree: 5%
 
 ---
 
@@ -38,7 +38,7 @@ ht-degree: 0%
 
 ## 您接下来可以期待的
 
-**2月/3月 — 用户设置**
+**2022年2月/3月 — 用户设置**
 
 * 在门户系统中以客户支持管理员身份设置已知支持用户
 * 系统生成的电子邮件将发送给由Adobe设置的用户
@@ -47,7 +47,7 @@ ht-degree: 0%
 >
 >目前，门户尚未激活以提交支持案例。
 
-**4月 — 启用**
+**2022年4月 — 启用**
 
 * 将向所有门户系统用户提供学习材料
 * 系统管理员/指定联系人，以最终确定支持用户设置和角色
