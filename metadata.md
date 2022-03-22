@@ -1,18 +1,11 @@
 ---
 cloud: Experience Cloud
-solution-title: 学习和支持
-solution-hub-url: https://helpx.adobe.com/cn/support/experience-cloud.html
-solution-image: help/assets/experience-cloud-logo-24.png
-getting-started-title: 快速入门
-getting-started-url: https://experienceleague.adobe.com/
-tutorials-title: 教程
-tutorials-url: https://experienceleague.adobe.com/
-git-repo: https://git.corp.adobe.com/AdobeDocs/customer-one.zh-Hans
+solution: Experience Cloud
+git-repo: https://github.com/AdobeDocs/customer-one.zh-Hans
 index: false
-translation-type: ht
-source-git-commit: 50698f35a69ce3a34b41e54d6e38e05c35490351
-workflow-type: ht
-source-wordcount: '128'
+source-git-commit: 03a17fde256c9249664da170489d4ff8707fc5aa
+workflow-type: tm+mt
+source-wordcount: '111'
 ht-degree: 100%
 
 ---
