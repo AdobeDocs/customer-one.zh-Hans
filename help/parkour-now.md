@@ -1,5 +1,5 @@
 ---
-title: 全新的 Adobe 客户支持体验
+title: 新的 Adobe 客户支持体验
 description: 与客户沟通，以提供新的支持体验
 hide: true
 hidefromtoc: true
@@ -7,15 +7,15 @@ exl-id: 6d0653a9-3a2a-4747-b8ec-bea48597cf01
 source-git-commit: 03a17fde256c9249664da170489d4ff8707fc5aa
 workflow-type: tm+mt
 source-wordcount: '453'
-ht-degree: 6%
+ht-degree: 16%
 
 ---
 
-# 全新的 Adobe 客户支持体验
+# 新的 Adobe 客户支持体验
 
 我们关心客户，并努力在客户需要帮助时更轻松地从Adobe客户支持获得帮助。 Adobe通过单个入门支持门户(Adobe Admin Console)简化体验，从而增强了您接收Adobe Analytics、Target和Audience Manager客户支持的方式。 此过渡将使您能够更深入地了解服务历史，并允许您通过通用平台通过电话、Web和聊天请求支持。 这些更改计划于2022年4月进行。
 
-随着实施日期的逐渐临近，我们将继续向贵组织提供更多相关信息。
+随着我们逐步推出，我们将继续为您的组织提供更多信息。
 
 ## 更多信息
 
@@ -26,15 +26,15 @@ ht-degree: 6%
 
 支持系统管理员和客户支持管理员将在Admin Console中创建支持用户时看到系统生成的电子邮件。 这两个用户角色将能够：
 
-* 利用案例管理工具，借助Adobe客户支持更轻松地处理支持案例
-* 通过面向Adobe Analytics的Adobe客户支持，方便地发起聊天对话
+* 利用案例管理工具，借助 Adobe 客户支持可以更轻松地处理支持案例
+* 通过 Adobe 客户支持，方便地发起聊天对话 对于Adobe Analytics
 * 更深入地了解您的服务历史
 * 浏览热门帮助主题和论坛。
 
 此外，支持系统管理员将能够：
 
-* 在门户中创建/删除支持用户并管理访问角色
-* 检查并验证组织内的支持用户是否准确。 (有关说明，请参阅： [管理用户](https://helpx.adobe.com/enterprise/using/users.html) 和 [管理团队帐户](https://helpx.adobe.com/enterprise/using/accounts.html).)
+* 在门户中创建/删除支持用户，并管理访问角色
+* 检查并验证组织内的支持用户是否准确。 (有关说明，请参阅： [管理用户](https://helpx.adobe.com/cn/enterprise/using/users.html) 和 [管理团队帐户](https://helpx.adobe.com/cn/enterprise/using/accounts.html).)
 
 ## 您接下来可以期待的
 
