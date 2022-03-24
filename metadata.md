@@ -1,12 +1,13 @@
 ---
 cloud: Experience Cloud
 solution: Experience Cloud
+type: Documentation
 git-repo: https://github.com/AdobeDocs/customer-one.zh-Hans
 index: false
-source-git-commit: f7c0a2eec63de717cddbd3795de79be58a3a431b
+source-git-commit: 5aac28e9211bf44db725034218222f730b49d6bd
 workflow-type: tm+mt
-source-wordcount: '111'
-ht-degree: 96%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
