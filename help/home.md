@@ -5,10 +5,10 @@ description: 新的 Adobe 客户支持体验
 seo-description: New Adobe Customer Support Experience
 seo-title: Adobe Experience Cloud Customer One for Enterprise
 exl-id: 276e0862-6f7e-491e-b63e-10a50b7238c2
-source-git-commit: b2f78f59e8dd531f723bb488dd84a38bfd0cd10a
+source-git-commit: 22c446a683e21574c3db4b24879a1d072cdd5a3d
 workflow-type: tm+mt
-source-wordcount: '505'
-ht-degree: 97%
+source-wordcount: '655'
+ht-degree: 75%
 
 ---
 
@@ -19,6 +19,19 @@ ht-degree: 97%
 现在可以通过 [Admin Console](https://adminconsole.adobe.com/) 提交支持票证。有关如何提交支持票证的说明，请查看 [提交支持票证](#submit-ticket)部分.
 
 我们正在努力改进您与Adobe客户支持的互动方式。 我们的愿景是使用 Adobe Admin Console，通过将支持体验迁移到单一入口点来将其简化。一旦上线，您的组织将可以轻松访问 Adobe 客户支持；通过公共系统更深入地了解您的服务历史；并且，在一个单一门户内，通过电话、网络和聊天请求帮助。
+
+## 需要有关新支持平台的帮助？
+
+我们提供一系列在线会议，客户可在其中就新支持流程提出问题。 选择一个或多个要加入的：
+
+| 详细信息 | 日 | 日期 | 注册链接 |
+|--- |--- |--- |--- |
+| [4月7日早8点](https://event.on24.com/wcc/r/3723732/5288A3B031AD858BF241EB0C0057CD85) | 图尔斯 | 4月7日 | <https://event.on24.com/wcc/r/3723732/5288A3B031AD858BF241EB0C0057CD85> |
+| [4月7日下午5点](https://event.on24.com/wcc/r/3723733/286EFEA9E8D9B6BB49464862F5414B8C) | 图尔斯 | 4月7日 | <https://event.on24.com/wcc/r/3723733/286EFEA9E8D9B6BB49464862F5414B8C> |
+| [4月20日早8点品脱](https://event.on24.com/wcc/r/3712143/05DAF046E4BB864E7C313B056ADE4EB2) | 星期三 | 4月20日 | <https://event.on24.com/wcc/r/3712143/05DAF046E4BB864E7C313B056ADE4EB2> |
+| [4月20日下午5点](https://event.on24.com/wcc/r/3723740/A9EDA45FA61D3FFC4BF713419B677F16) | 星期三 | 2月20日 | <https://event.on24.com/wcc/r/3723740/A9EDA45FA61D3FFC4BF713419B677F16> |
+| [4月21日早8点品脱](https://event.on24.com/wcc/r/3723741/C7EBCD38583D4D7AFCBD56029EB17C98) | 图尔斯 | 4月21日 | <https://event.on24.com/wcc/r/3723741/C7EBCD38583D4D7AFCBD56029EB17C98> |
+| [4月21日下午5点](https://event.on24.com/wcc/r/3723743/6F41ED2648A621F1419A56F0A52F4446) | 图尔斯 | 4月21日 | <https://event.on24.com/wcc/r/3723743/6F41ED2648A621F1419A56F0A52F4446> |
 
 ## 如何提交 Admin Console 支持票证 {#submit-ticket}
 
