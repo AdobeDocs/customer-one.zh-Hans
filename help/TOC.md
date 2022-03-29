@@ -7,7 +7,7 @@ user-guide-title: '[!DNL Customer One for Enterprise] 帮助'
 source-git-commit: 4bd3f83f5142f53d24cfe1bdaaed4d4507fc0687
 workflow-type: tm+mt
 source-wordcount: '9'
-ht-degree: 66%
+ht-degree: 100%
 
 ---
 
@@ -17,4 +17,4 @@ ht-degree: 66%
 + [简介](home.md)
 + 参考文档 {#ref-docs}
    + [先前公告](intro-customer-support.md)
-   + [Parkour现在公告](parkour-now.md)
+   + [跑酷吧公告](parkour-now.md)

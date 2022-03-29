@@ -6,7 +6,7 @@ seo-description: Adobe Campaign - New enterprise support experience is coming
 source-git-commit: abf43d94c879d6cafaede13324225a8a1f91a6e9
 workflow-type: tm+mt
 source-wordcount: '246'
-ht-degree: 88%
+ht-degree: 100%
 
 ---
 
@@ -33,7 +33,7 @@ ht-degree: 88%
 
 >[!NOTE]
 >
->请确认您接受此角色（或提供替代的联系人）作为贵组织的Adobe Campaign产品的系统管理员，具体方式为 **完成和提交 [[!DNL System Admin Confirmation Form]](https://adobe.allegiancetech.com/cgi-bin/qwebcorporate.dll?idx=SSSVH6) 截止2019年11月4日**.
+>请在 **2019 年 11 月 4 日之前完成并提交 [[!DNL System Admin Confirmation Form]](https://adobe.allegiancetech.com/cgi-bin/qwebcorporate.dll?idx=SSSVH6)**，以确认您接受此角色（或提供替代的联系人）作为您组织的 Adobe Campaign 产品的系统管理员。
 >
 >填写此表格后，适当的凭据将分配给您组织的指定系统管理员。
 
