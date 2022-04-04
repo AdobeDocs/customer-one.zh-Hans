@@ -6,9 +6,9 @@ seo-description: New Adobe Customer Support Experience
 seo-title: Adobe Experience Cloud Customer One for Enterprise
 exl-id: 276e0862-6f7e-491e-b63e-10a50b7238c2
 source-git-commit: c08b51519488f37adc85b9686810726b8803dec8
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '664'
-ht-degree: 76%
+ht-degree: 100%
 
 ---
 
@@ -20,9 +20,9 @@ ht-degree: 76%
 
 我们正在努力改进您与 Adobe 客户支持的互动方式。我们的愿景是使用 Adobe Admin Console，通过将支持体验迁移到单一入口点来将其简化。一旦上线，您的组织将可以轻松访问 Adobe 客户支持；通过公共系统更深入地了解您的服务历史；并且，在一个单一门户内，通过电话、网络和聊天请求帮助。
 
-## 需要有关新支持平台的帮助？
+## 是否需要有关新支持平台的帮助？
 
-我们提供一系列在线会议，客户可在其中就新支持流程提出问题。 选择一个或多个要加入的：
+我们提供一系列在线会议，客户可在其中就新支持流程提出问题。选择一个或多个加入：
 
 | 日期和时间 | 注册链接 |
 |--- |--- |
