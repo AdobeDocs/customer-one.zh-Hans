@@ -5,7 +5,7 @@ hide: true
 hidefromtoc: true
 exl-id: 6d0653a9-3a2a-4747-b8ec-bea48597cf01
 source-git-commit: 03a17fde256c9249664da170489d4ff8707fc5aa
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '453'
 ht-degree: 100%
 
@@ -27,7 +27,7 @@ ht-degree: 100%
 在 Admin Console 中创建支持用户时，支持系统管理员和客户支持管理员将看到系统生成的电子邮件。这两个用户角色都能够：
 
 * 利用案例管理工具，借助 Adobe 客户支持可以更轻松地处理支持案例
-* 通过 Adobe 客户支持，方便地发起聊天对话 对于 Adobe Analytics
+* 通过 Adobe 客户支持，方便地发起聊天对话  对于 Adobe Analytics
 * 更深入地了解您的服务历史
 * 浏览热门帮助主题和论坛。
 
