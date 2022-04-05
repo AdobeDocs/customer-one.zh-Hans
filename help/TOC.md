@@ -4,10 +4,10 @@ product: experience cloud
 sub-product: customer one
 audience: end-user
 user-guide-title: '[!DNL Customer One for Enterprise] 帮助'
-source-git-commit: 4bd3f83f5142f53d24cfe1bdaaed4d4507fc0687
+source-git-commit: c0035e17cc1ca97ac511aff3515b7a8f7866f32d
 workflow-type: tm+mt
-source-wordcount: '9'
-ht-degree: 100%
+source-wordcount: '15'
+ht-degree: 6%
 
 ---
 
@@ -15,6 +15,8 @@ ht-degree: 100%
 # [!DNL Customer One for Enterprise] {#using}
 
 + [简介](home.md)
++ [管理角色](admin-roles.md)
++ [联系Adobe客户关怀](customer-care.md)
 + 参考文档 {#ref-docs}
    + [先前公告](intro-customer-support.md)
-   + [跑酷吧公告](parkour-now.md)
+   + [Parkour现在公告](parkour-now.md)
