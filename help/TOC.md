@@ -7,7 +7,7 @@ user-guide-title: '[!DNL Customer One for Enterprise] 帮助'
 source-git-commit: c0035e17cc1ca97ac511aff3515b7a8f7866f32d
 workflow-type: tm+mt
 source-wordcount: '15'
-ht-degree: 6%
+ht-degree: 60%
 
 ---
 
@@ -19,4 +19,4 @@ ht-degree: 6%
 + [联系Adobe客户关怀](customer-care.md)
 + 参考文档 {#ref-docs}
    + [先前公告](intro-customer-support.md)
-   + [Parkour现在公告](parkour-now.md)
+   + [跑酷吧公告](parkour-now.md)
