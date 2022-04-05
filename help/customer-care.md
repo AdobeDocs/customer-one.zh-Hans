@@ -1,10 +1,10 @@
 ---
 title: 联系Adobe客户关怀
 description: 有关联系Adobe客户关怀团队、企业客户和Experience Cloud客户的信息。
-source-git-commit: c0035e17cc1ca97ac511aff3515b7a8f7866f32d
+source-git-commit: 83d10df855395476b0bdbb640096dbe7eebf227c
 workflow-type: tm+mt
-source-wordcount: '157'
-ht-degree: 3%
+source-wordcount: '133'
+ht-degree: 4%
 
 ---
 
@@ -21,16 +21,22 @@ ht-degree: 3%
 
 ![团队图像](assets/team.png)
 
-[了解更多](https://helpx.adobe.com/enterprise/using/support-for-teams.html)
+<!--
+[Learn more](https://helpx.adobe.com/enterprise/using/support-for-teams.html)
+-->
 
 ## 对于企业帐户
 
 ![团队图像](assets/enterprise.png)
 
-[了解更多](https://helpx.adobe.com/enterprise/using/support-for-enterprise.html)
+<!--
+[Learn more](https://helpx.adobe.com/enterprise/using/support-for-enterprise.html)
+-->
 
 ## 对于Experience Cloud
 
 ![团队图像](assets/ec.png)
 
-[了解更多](https://www.adobe.com/go/ac_ec_not_supported_en)
+<!--
+[Learn more](https://www.adobe.com/go/ac_ec_not_supported_en)
+-->
