@@ -5,7 +5,7 @@ description: 新的 Adobe 客户支持体验
 seo-description: New Adobe Customer Support Experience
 seo-title: Adobe Experience Cloud Customer One for Enterprise
 exl-id: 276e0862-6f7e-491e-b63e-10a50b7238c2
-source-git-commit: c0035e17cc1ca97ac511aff3515b7a8f7866f32d
+source-git-commit: 6fcd91d09ffc23047b2fb332af256ab7706355cd
 workflow-type: tm+mt
 source-wordcount: '646'
 ht-degree: 100%
@@ -43,7 +43,7 @@ ht-degree: 100%
 
 支持管理员角色是一个非管理员角色，可以访问与支持有关的信息。支持管理员可以查看、创建和管理问题报告。
 
-要分配支持管理员角色，请按照管理角色文档中的 [编辑企业管理员角色](admin-roles.md#add-admin-teams) 说明进行操作。请注意，只有贵组织的系统管理员才能分配此角色。有关管理层级的详细信息，请访问 [管理角色](admin-roles.md) 文档。
+要分配支持管理员角色，请按照管理角色文档中的 [编辑企业管理员角色](admin-roles.md#add-enterprise-role) 说明进行操作。请注意，只有贵组织的系统管理员才能分配此角色。有关管理层级的详细信息，请访问 [管理角色](admin-roles.md) 文档。
 
 ### 使用 Admin Console 创建支持票证
 
