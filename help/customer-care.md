@@ -1,23 +1,23 @@
 ---
-title: 联系Adobe客户关怀
-description: 有关联系Adobe客户关怀团队、企业客户和Experience Cloud客户的信息。
-source-git-commit: 83d10df855395476b0bdbb640096dbe7eebf227c
+title: 联系 Adobe 客户关怀
+description: 有关团队、企业和 Experience Cloud 客户联系 Adobe 客户关怀的信息。
+exl-id: 4df547f1-d476-4b52-a0f1-c9d7c32679f7
+source-git-commit: 9812c6947b67797bb682581bea9c99b9d67884b6
 workflow-type: tm+mt
 source-wordcount: '133'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
+# 企业和团队 | 联系 Adobe 客户关怀
 
-# 企业和团队 |联系Adobe客户关怀
+要联系 Adobe 客户关怀，请导航到 [Admin Console](https://adminconsole.adobe.com/) 中的&#x200B;**支持**&#x200B;选项卡。
 
-要联系Adobe客户关怀，请导航到 **支持** 选项卡 [Admin Console](https://adminconsole.adobe.com/).
+在 [Admin Console](https://adminconsole.adobe.com/) 中的&#x200B;**支持**&#x200B;选项卡，您可以通过简单易用的界面访问各种支持选项。“支持”选项卡中的可用选项取决于您的订阅计划。有关更多信息，请单击您的订阅计划对应的&#x200B;**了解更多**。
 
-的 **“支持”选项卡** 在 [Admin Console](https://adminconsole.adobe.com/) 允许您通过简单易用的界面访问各种支持选项。 “支持”选项卡中的可用选项取决于您的订阅计划。 有关更多信息，请单击 **了解更多** 对应于您的订阅计划。
+如果不确定自己的订阅计划，请导航到在 [Admin Console](https://adminconsole.adobe.com/) 上的&#x200B;**支持**&#x200B;选项卡，并将您的视图与下图进行比较。然后，单击相应的&#x200B;**了解更多**&#x200B;链接。
 
-如果您不确定您的订阅计划，请导航到 **“支持”选项卡** 在 [Admin Console](https://adminconsole.adobe.com/)，并将您的视图与以下图像进行比较。 然后，单击相应的 **了解更多** 链接。
-
-## 适用于团队帐户
+## 对于团队帐户
 
 ![团队图像](assets/team.png)
 
@@ -33,7 +33,7 @@ ht-degree: 0%
 [Learn more](https://helpx.adobe.com/enterprise/using/support-for-enterprise.html)
 -->
 
-## 对于Experience Cloud
+## 对于 Experience Cloud
 
 ![团队图像](assets/ec.png)
 
