@@ -4,7 +4,7 @@ description: WorkfrontAdmin Console登陆页
 source-git-commit: 80b615a98325b1dda41b2cff3cee14f8282b9cf9
 workflow-type: tm+mt
 source-wordcount: '235'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
@@ -16,7 +16,7 @@ ht-degree: 0%
 
 * 确定要在其中添加Adobe Admin Console的所需Workfront。
 
-   如果您已经拥有其他Adobe产品，请确认是否愿意将Adobe Workfront添加到当前Adobe Admin Console中。 如果您需要更多信息，请使用 [此链接](https://helpx.adobe.com/enterprise/using/admin-console.html) 以了解管理Adobe产品的最佳实践。
+   如果您已经拥有其他Adobe产品，请确认是否愿意将Adobe Workfront添加到当前Adobe Admin Console中。 如果您需要更多信息，请使用 [此链接](https://helpx.adobe.com/cn/enterprise/using/admin-console.html) 以了解管理Adobe产品的最佳实践。
 
 * 请参阅 [链接](https://helpx.adobe.com/enterprise/using/deployment-planning.html) 以获取有关部署的帮助。
 * 如果利用单点登录，则需要将新的Adobe Admin Console连接到现有的单点登录提供商。

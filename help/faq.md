@@ -4,8 +4,8 @@ title: Adobe业务平台和Admin Console常见问题解答
 description: Adobe Workfront常见问题解答
 source-git-commit: 80b615a98325b1dda41b2cff3cee14f8282b9cf9
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '497'
+ht-degree: 1%
 
 ---
 
@@ -57,7 +57,7 @@ Adobe Workfront支持团队将通过实时帮助和指导来转移客户，以�
 
 +++**AAC有哪些培训资源？**
 
-&lt;https://helpx.adobe.com/enterprise/using/admin-console.html >
+&lt;https://helpx.adobe.com/cn/enterprise/using/admin-console.html >
 
 +++
 
