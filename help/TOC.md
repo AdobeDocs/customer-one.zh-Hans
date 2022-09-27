@@ -5,9 +5,9 @@ sub-product: customer one
 audience: end-user
 user-guide-title: '[!DNL Customer One for Enterprise] 帮助'
 source-git-commit: 89be38209b05b9b836d4487b31cb2e761b8aaf8d
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '20'
-ht-degree: 80%
+ht-degree: 100%
 
 ---
 
@@ -20,7 +20,7 @@ ht-degree: 80%
 + 参考文档 {#ref-docs}
    + [先前公告](intro-customer-support.md)
    + [跑酷吧公告](parkour-now.md)
-+ Workfront文档 {#workfront}
++ Workfront 文档 {#workfront}
    + [概述](overview.md)
    + [登陆](landing.md)
-   + [常见问题解答](faq.md)
+   + [常见问题](faq.md)
