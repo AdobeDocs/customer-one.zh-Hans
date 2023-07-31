@@ -5,10 +5,10 @@ description: 新的 Adobe 客户支持体验
 seo-description: New Adobe Customer Support Experience
 seo-title: Adobe Experience Cloud Customer One for Enterprise
 exl-id: 276e0862-6f7e-491e-b63e-10a50b7238c2
-source-git-commit: 79bb048c2aa379a7ec455dbdbcd9b6406f047f3c
+source-git-commit: 54cf27e25fdbd18c9ef3fbc2d606e9005fc5025e
 workflow-type: tm+mt
-source-wordcount: '687'
-ht-degree: 79%
+source-wordcount: '729'
+ht-degree: 78%
 
 ---
 
@@ -60,6 +60,10 @@ ht-degree: 79%
 用户必须单击&#x200B;**开始使用**（电子邮件）以加入组织。如果新管理员不使用&#x200B;**开始使用**&#x200B;链接，则将无法登录到 Admin Console。
 
 在登录过程中，如果用户还没有 Adobe 配置文件，则可能会要求其设置 Adobe 配置文件。如果用户有多个与其电子邮件地址关联的配置文件，用户必须选择 **加入团队** （如果出现提示），然后选择与新组织关联的配置文件。
+
+![管理员权限确认](assets/admin-rights-confirmation.png)
+
+欲知更多详情，请参阅 [编辑企业管理员角色](admin-roles.md#add-enterprise-role) 管理角色文档中的说明。 请注意，只有贵组织的系统管理员才能分配此角色。有关管理层级的详细信息，请访问 [管理角色](admin-roles.md) 文档。
 
 ### 使用 Admin Console 创建支持票证
 
