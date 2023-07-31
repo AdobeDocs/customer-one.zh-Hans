@@ -5,9 +5,9 @@ description: 新的 Adobe 客户支持体验
 seo-description: New Adobe Customer Support Experience
 seo-title: Adobe Experience Cloud Customer One for Enterprise
 exl-id: 276e0862-6f7e-491e-b63e-10a50b7238c2
-source-git-commit: 54cf27e25fdbd18c9ef3fbc2d606e9005fc5025e
+source-git-commit: 21d5995ce2529a47e1691ce152cf3da7cd978890
 workflow-type: tm+mt
-source-wordcount: '729'
+source-wordcount: '732'
 ht-degree: 78%
 
 ---
@@ -48,8 +48,8 @@ ht-degree: 78%
 
 1. 选择以下两个选项之一：
 
-   * 选项1： **[!UICONTROL 基本支持管理员]**. 如果要授予用户对所有解决方案(Marketo除外)的支持访问权限，请选择此选项。
-   * 选项2： **[!UICONTROL 产品支持管理员]**：选择此选项可支持Marketo。 选择要授予用户支持访问权限的Marketo实例。
+   * 选项1： **[!UICONTROL 基本支持管理员]**. 如果要授予Marketo Engage支持对所有解决方案（用户除外）的访问权限，请选择此选项。
+   * 选项2： **[!UICONTROL 产品支持管理员]**：选择此选项可支持Marketo Engage。 选择要授予Marketo Engage支持访问权限的用户实例。
 
    ![编辑管理权限Marketo](assets/edit-admin-rights-advanced.png)
 
