@@ -8,7 +8,7 @@ exl-id: 276e0862-6f7e-491e-b63e-10a50b7238c2
 source-git-commit: 21d5995ce2529a47e1691ce152cf3da7cd978890
 workflow-type: tm+mt
 source-wordcount: '732'
-ht-degree: 78%
+ht-degree: 91%
 
 ---
 
@@ -42,24 +42,24 @@ ht-degree: 78%
 
 要为用户分配支持管理员角色（使用户能够联系支持人员），请执行以下操作：
 
-1. 选择 **[!UICONTROL 支持管理员]** 选项。
+1. 选择&#x200B;**[!UICONTROL 支持管理员]**&#x200B;选项。
 
-   ![编辑管理权限](assets/edit-admin-rights.png)
+   ![编辑管理员权限](assets/edit-admin-rights.png)
 
 1. 选择以下两个选项之一：
 
-   * 选项1： **[!UICONTROL 基本支持管理员]**. 如果要授予Marketo Engage支持对所有解决方案（用户除外）的访问权限，请选择此选项。
+   * 选项 1：**[!UICONTROL 基本支持管理员]**。如果要授予Marketo Engage支持对所有解决方案（用户除外）的访问权限，请选择此选项。
    * 选项2： **[!UICONTROL 产品支持管理员]**：选择此选项可支持Marketo Engage。 选择要授予Marketo Engage支持访问权限的用户实例。
 
-   ![编辑管理权限Marketo](assets/edit-admin-rights-advanced.png)
+   ![编辑管理员权限 Marketo](assets/edit-admin-rights-advanced.png)
 
-1. 作出选择后，单击 **[!UICONTROL 保存]**.
+1. 作出选择后，单击&#x200B;**[!UICONTROL 保存]**。
 
 用户会收到来自 `message@adobe.com` 的有关新管理权限的电子邮件邀请。
 
 用户必须单击&#x200B;**开始使用**（电子邮件）以加入组织。如果新管理员不使用&#x200B;**开始使用**&#x200B;链接，则将无法登录到 Admin Console。
 
-在登录过程中，如果用户还没有 Adobe 配置文件，则可能会要求其设置 Adobe 配置文件。如果用户有多个与其电子邮件地址关联的配置文件，用户必须选择 **加入团队** （如果出现提示），然后选择与新组织关联的配置文件。
+在登录过程中，如果用户还没有 Adobe 配置文件，则可能会要求其设置 Adobe 配置文件。如果用户的电子邮件地址关联了多个配置文件，则用户必须选择&#x200B;**加入团队**（如果出现提示），然后选择与新组织关联的配置文件。
 
 ![管理员权限确认](assets/admin-rights-confirmation.png)
 
