@@ -6,9 +6,9 @@ seo-description: New Adobe Customer Support Experience
 seo-title: Adobe Experience Cloud Customer One for Enterprise
 exl-id: 276e0862-6f7e-491e-b63e-10a50b7238c2
 source-git-commit: 21d5995ce2529a47e1691ce152cf3da7cd978890
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '732'
-ht-degree: 91%
+ht-degree: 100%
 
 ---
 
@@ -48,8 +48,8 @@ ht-degree: 91%
 
 1. 选择以下两个选项之一：
 
-   * 选项 1：**[!UICONTROL 基本支持管理员]**。如果要授予Marketo Engage支持对所有解决方案（用户除外）的访问权限，请选择此选项。
-   * 选项2： **[!UICONTROL 产品支持管理员]**：选择此选项可支持Marketo Engage。 选择要授予Marketo Engage支持访问权限的用户实例。
+   * 选项 1：**[!UICONTROL 基本支持管理员]**。如果要授予用户对所有解决方案（Marketo Engage 除外）的支持访问权限，请选择此选项。
+   * 选项 2：**[!UICONTROL 产品支持管理员]**：选择此选项对应 Marketo Engage 支持。选择要授予用户支持访问权限的 Marketo Engage 实例。
 
    ![编辑管理员权限 Marketo](assets/edit-admin-rights-advanced.png)
 
@@ -63,7 +63,7 @@ ht-degree: 91%
 
 ![管理员权限确认](assets/admin-rights-confirmation.png)
 
-欲知更多详情，请参阅 [编辑企业管理员角色](admin-roles.md#add-enterprise-role) 管理角色文档中的说明。 请注意，只有贵组织的系统管理员才能分配此角色。有关管理层级的详细信息，请访问 [管理角色](admin-roles.md) 文档。
+有关详细信息，请参阅管理角色文档中的[编辑企业管理员角色](admin-roles.md#add-enterprise-role)说明。请注意，只有贵组织的系统管理员才能分配此角色。有关管理层级的详细信息，请访问 [管理角色](admin-roles.md) 文档。
 
 ### 使用 Admin Console 创建支持票证
 
