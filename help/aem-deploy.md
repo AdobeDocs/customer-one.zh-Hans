@@ -1,12 +1,11 @@
 ---
 title: 即将推出全新的 Adobe 客户支持体验 - AEM 部署联系人
 description: 即将推出全新的 Adobe 客户支持体验 - AEM 部署联系人
-seo-title: 即将推出全新的 Adobe 客户支持体验 - AEM 部署联系人
-seo-description: 即将推出全新的 Adobe 客户支持体验 - AEM 部署联系人
-translation-type: ht
+seo-title: Your New Adobe Customer Support Experience is Coming - AEM deploy contact
+seo-description: Your New Adobe Customer Support Experience is Coming - AEM deploy contact
 source-git-commit: a78e81c0f45ca3f2fb9e8dfda6babada819aa3c1
 workflow-type: ht
-source-wordcount: '342'
+source-wordcount: '297'
 ht-degree: 100%
 
 ---
@@ -32,11 +31,11 @@ ht-degree: 100%
 
 >[!NOTE]
 >
->请在 **2019 年 11 月 4 日之前完成并提交[[!DNL 系统管理员确认表]](https://adobe.allegiancetech.com/cgi-bin/qwebcorporate.dll?idx=N5M8RY)**，以确认您接受此角色（或提供替代的联系人）作为贵组织的 Adobe Experience Manager 产品的系统管理员。
+>请在 **2019 年 11 月 4 日之前完成并提交 [[!DNL System Admin Confirmation Form]](https://adobe.allegiancetech.com/cgi-bin/qwebcorporate.dll?idx=N5M8RY)**，以确认您接受此角色（或提供替代的联系人）作为您组织的 Adobe Experience Manager 产品的系统管理员。
 >
 >填写此表格后，它将确保为您组织的指定系统管理员分配适当的凭据，并允许我们提供更多详细信息，以帮助您的组织为即将发生的变更做好准备。
 
-我们在收到[[!DNL 系统管理员确认表]](https://adobe.allegiancetech.com/cgi-bin/qwebcorporate.dll?idx=N5M8RY)后，发送电子邮件已保确认。
+收到 [[!DNL System Admin Confirmation Form]](https://adobe.allegiancetech.com/cgi-bin/qwebcorporate.dll?idx=N5M8RY) 时将发送电子邮件确认。
 
 如果对本电子邮件有任何疑问，请通过 customercare@adobe.com 与我们联系。
 
