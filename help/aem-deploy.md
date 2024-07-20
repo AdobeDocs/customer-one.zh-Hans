@@ -4,7 +4,7 @@ description: 即将推出全新的 Adobe 客户支持体验 - AEM 部署联系�
 seo-title: Your New Adobe Customer Support Experience is Coming - AEM deploy contact
 seo-description: Your New Adobe Customer Support Experience is Coming - AEM deploy contact
 source-git-commit: a78e81c0f45ca3f2fb9e8dfda6babada819aa3c1
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '297'
 ht-degree: 100%
 

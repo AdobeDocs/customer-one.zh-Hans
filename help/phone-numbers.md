@@ -3,7 +3,7 @@ title: 指定首选支持电话号码
 description: 更新 Adobe 支持电话号码。指定您的首选支持电话号码。
 exl-id: 59017843-5989-4618-b7a6-6333bf9ccef4
 source-git-commit: 3f163bffd6f1bf19e8c58688b9068d9ce6aeab0d
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '168'
 ht-degree: 100%
 
