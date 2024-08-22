@@ -5,26 +5,30 @@ description: 新的 Adobe 客户支持体验
 seo-description: New Adobe Customer Support Experience
 seo-title: Adobe Experience Cloud Customer One for Enterprise
 exl-id: 276e0862-6f7e-491e-b63e-10a50b7238c2
-source-git-commit: 21d5995ce2529a47e1691ce152cf3da7cd978890
+source-git-commit: 79858d43281431431b980c71ee3b09f99b445c62
 workflow-type: tm+mt
-source-wordcount: '731'
-ht-degree: 100%
+source-wordcount: '860'
+ht-degree: 56%
 
 ---
 
 # Adobe 客户支持体验
 
-## Admin Console 支持票证
+## Experience League支持票证
 
-现在可以通过 [Admin Console](https://adminconsole.adobe.com/) 提交支持票证。有关如何提交支持票证的说明，请查看 [提交支持票证](#submit-ticket)部分.
+支持票证现在通过[Experience League](https://experienceleague.adobe.com/home#support)提交。 有关如何提交支持票证的说明，请查看 [提交支持票证](#submit-ticket)部分.
 
-我们正在努力改进您与 Adobe 客户支持的互动方式。我们的愿景是使用 Adobe Admin Console，通过将支持体验迁移到单一入口点来将其简化。一旦上线，您的组织将可以轻松访问 Adobe 客户支持；通过公共系统更深入地了解您的服务历史；并且，在一个单一门户内，通过电话、网络和聊天请求帮助。
+我们正在努力改进您与 Adobe 客户支持的互动方式。我们的愿景是通过使用Experience League转移到单一入口点来简化支持体验。 一旦上线，您的组织将可以轻松访问 Adobe 客户支持；通过公共系统更深入地了解您的服务历史；并且，在一个单一门户内，通过电话、网络和聊天请求帮助。
 
-## 如何提交 Admin Console 支持票证 {#submit-ticket}
+如果您是Adobe Commerce用户，请参阅Adobe CommerceExperience League支持用户指南中的[提交支持案例](https://experienceleague.adobe.com/en/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide#support-case)。
 
-要在 [Admin Console](https://adminconsole.adobe.com/)内提交支持票证，您需要系统管理员分配给您支持管理员角色。只有您组织中的系统管理员才能分配此角色。产品、产品配置文件和其他管理角色无法分配支持管理员角色，因此无法查看用于提交支持票证的 **[!UICONTROL 创建案例]** 选项。请访问 [企业和团队客户关怀](customer-care.md) 文档，查阅更多相关信息。
+## 支持案例提交所需的授权角色 {#submit-ticket}
 
-### 分配支持管理员角色
+若要在[Experience League](https://experienceleague.adobe.com/home#support)中提交支持票证，您需要由系统管理员分配支持管理员角色。 只有您组织中的系统管理员才能分配此角色。产品、产品配置文件和其他管理角色无法分配支持管理员角色，因此无法查看用于提交支持票证的 **[!UICONTROL 创建案例]** 选项。要了解有关不同类型的管理员角色及其权限的详细信息，请参阅[管理员角色](admin-roles.md)。
+
+如果您使用Commerce，则共享访问权限以处理支持案例的流程会有所不同。 要了解更多信息，请参阅Adobe CommerceExperience League支持用户指南中的[共享访问权限：授予其他用户访问您的帐户的权限](https://experienceleague.adobe.com/en/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide#shared-access)。
+
+### 添加支持使角色有权访问组织
 
 支持管理员角色是一个非管理员角色，可以访问与支持有关的信息。支持管理员可以查看、创建和管理问题报告。
 
@@ -65,31 +69,41 @@ ht-degree: 100%
 
 有关详细信息，请参阅管理角色文档中的[编辑企业管理员角色](admin-roles.md#add-enterprise-role)说明。请注意，只有贵组织的系统管理员才能分配此角色。有关管理层级的详细信息，请访问 [管理角色](admin-roles.md) 文档。
 
-### 使用 Admin Console 创建支持票证
+### 创建具有Experience League的支持工单
 
-如要通过 [Admin Console](https://adminconsole.adobe.com/)创建票证，请选择位于顶部导航中的 **[!UICONTROL 支持]** 选项卡。[!UICONTROL 支持摘要] 页面就会出现。接下来，请选择 **[!UICONTROL 创建案例]** 选项。
+提交支持案例的过程现在直接与Experience League支持平台集成。 这是一个自助门户，最近进行了重新设计，以便为授权客户提供更多个性化和易用性。
+
+1. 要使用[Experience League](https://experienceleague.adobe.com/home#support)创建票证，请选择顶部导航中的&#x200B;**[!UICONTROL 支持]**选项卡。
+   ![Experience League支持选项卡](./assets/experience-league-support-tab.png)
+1. 从支持主页中，您可以轻松导航到打开的支持案例、登记新案例、查看热门支持文章或访问其他学习来源。
+   ![Experience League支持资源](./assets/experience-league-support-resources.png)
+1. 要提交案例，请选择&#x200B;**[!UICONTROL 打开支持票证]**。 在侧栏菜单上选择&#x200B;**[!UICONTROL 打开票证]**选项。 您将被引导至案例创建页面，在该页面中，您可以输入产品名称(Audience Manager、促销活动、Target等)、案例标题和案例描述。 要加快故障排除过程，请在描述您遇到的问题时尽可能提供描述。
+   ![Experience League开放票证](./assets/experience-league-open-ticket.png)
+1. 在表单的末尾，填写以下字段。 选择任何解决方案时，系统会询问您以下内容，有些解决方案还会显示其他字段：
+
+   * 案例优先级(低、Medium、高、关键)
+   * 商业影响
+   * 客户时区（美洲、EMEA、APAC）
+
+![Experience League票证优先级](./assets/experience-league-ticket-priority.png)
 
 >[!TIP]
 >
 > 如果您无法看到 **[!UICONTROL 创建案例]** 选项或 **[!UICONTROL 支持]** 选项卡，您需要联系系统管理员，让其为您分配支持管理员角色。
 
-![Admin Console 支持选项卡](./assets/Support.png)
 
-出现一个对话框，允许您选择问题类型。请选择最能描述您的问题或疑问的问题类型，然后在右下方选择 **[!UICONTROL 创建案例]**。
 
-![选择问题](./assets/select-case-type.png)
 
-出现 **[!UICONTROL 创建案例]** 对话框。系统会要求您提供一些信息，如产品、优先级、描述，以及附加任何屏幕截图，以帮助描述此问题。选择 **[!UICONTROL 下一个]**，继续流程。
 
-![创建案例](./assets/create_case.png)
+
+
 
 >[!NOTE]
 >
-> 如果问题导致生产系统停止运行或极其严重的中断，我们会提供电话号码以提供即时帮助。
+> 如果问题导致生产系统中断或严重中断，则会提供电话号码以立即获得帮助。
 
-下一页允许您填写联系信息，并提供 Adobe 客户支持与您联系的最佳时间。完成后，选择 **[!UICONTROL 提交]**，您的票证将发送至 Adobe 客户支持。
 
-![提交票证](./assets/submit_case.png)
+
 
 <!--
 
