@@ -73,11 +73,11 @@ ht-degree: 96%
 
 提交支持案例的过程现在直接与 Experience League 支持平台集成。这是一个自助门户，最近经过重新设计，以便为授权客户提供更好的个性化和易用性。
 
-1. 如要通过 [Experience League](https://experienceleague.adobe.com/home#support) 创建票证，请选择位于顶部导航中的&#x200B;**[!UICONTROL 支持]**选项卡。
+1. 如要通过 [Experience League](https://experienceleague.adobe.com/home#support) 创建票证，请选择位于顶部导航中的&#x200B;**[!UICONTROL 支持]**&#x200B;选项卡。
    ![Experience League 支持选项卡](./assets/experience-league-support-tab.png)
 1. 从支持主页中，您可以轻松导航至未结的支持案例、记录新案例、查看热门支持文章或访问其他学习资源。
    ![Experience League 支持资源](./assets/experience-league-support-resources.png)
-1. 要提交案例，请选择&#x200B;**[!UICONTROL “开立支持票证”]**。此外还要在侧边栏菜单上选择&#x200B;**[!UICONTROL “开立票证”]**选项。您将被引导至案例创建页面，在该页面中可以输入产品名称（Audience Manager、Campaign、Target等）、案例标题和案例描述。为了加快故障排除过程，在描述所遇到的问题时请尽可能详细。
+1. 要提交案例，请选择&#x200B;**[!UICONTROL “开立支持票证”]**。此外还要在侧边栏菜单上选择&#x200B;**[!UICONTROL “开立票证”]**&#x200B;选项。您将被引导至案例创建页面，在该页面中可以输入产品名称（Audience Manager、Campaign、Target等）、案例标题和案例描述。为了加快故障排除过程，在描述所遇到的问题时请尽可能详细。
    ![Experience League 开立票证](./assets/experience-league-open-ticket.png)
 1. 在表单末尾，填写以下字段。选择任何解决方案后，系统会询问以下内容，并且有些解决方案还会有其他字段：
 
