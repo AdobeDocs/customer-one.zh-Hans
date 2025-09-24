@@ -5,10 +5,10 @@ description: 新的 Adobe 客户支持体验
 seo-description: New Adobe Customer Support Experience
 seo-title: Adobe Experience Cloud Customer One for Enterprise
 exl-id: 276e0862-6f7e-491e-b63e-10a50b7238c2
-source-git-commit: 16b947e89ba4fea10e06e275df430d1205937b8c
+source-git-commit: 83a4e81a8ba56f2834b811d6840fc8e21ebed026
 workflow-type: tm+mt
-source-wordcount: '888'
-ht-degree: 96%
+source-wordcount: '942'
+ht-degree: 84%
 
 ---
 
@@ -16,17 +16,17 @@ ht-degree: 96%
 
 ## Experience League 支持票证
 
-支持票证现在通过 [Experience League](https://experienceleague.adobe.com/home?lang=zh-Hans#support) 提交。有关如何提交支持票证的说明，请查看 [提交支持票证](#create-a-support-ticket-with-experience-league)部分。
+支持票证现在通过 [Experience League](https://experienceleague.adobe.com/home#support) 提交。有关如何提交支持票证的说明，请查看 [提交支持票证](#create-a-support-ticket-with-experience-league)部分。
 
 我们正在努力改进您与 Adobe 客户支持的互动方式。我们的愿景是使用 Experience League，通过将支持体验迁移到单一入口点来将其简化。一旦上线，您的组织将可以轻松访问 Adobe 客户支持；通过公共系统更深入地了解您的服务历史；并且，在一个单一门户内，通过电话、网络和聊天请求帮助。
 
-如果您是 Adobe Commerce 用户，请参阅《Adobe Commerce 的 Experience League 支持用户指南》中的[“提交支持案例”](https://experienceleague.adobe.com/zh-hans/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide#support-case)。
+如果您是 Adobe Commerce 用户，请参阅《Adobe Commerce 的 Experience League 支持用户指南》中的[“提交支持案例”](https://experienceleague.adobe.com/en/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide#support-case)。
 
 ## 提交案例所需的支持授权角色 {#submit-ticket}
 
-要在 [Experience League](https://experienceleague.adobe.com/home?lang=zh-Hans#support) 内提交支持票证，您需要系统管理员分配给您支持管理员角色。只有您组织中的系统管理员才能分配此角色。产品、产品配置文件和其他管理角色无法分配支持管理员角色，因此无法查看用于提交支持票证的&#x200B;**[!UICONTROL 创建案例]**&#x200B;选项。要了解有关不同类型的管理员角色及其权限的详细信息，请参阅[“管理员角色”](admin-roles.md)。
+要在 [Experience League](https://experienceleague.adobe.com/home#support) 内提交支持票证，您需要系统管理员分配给您支持管理员角色。只有您组织中的系统管理员才能分配此角色。产品、产品配置文件和其他管理角色无法分配支持管理员角色，因此无法查看用于提交支持票证的&#x200B;**[!UICONTROL 创建案例]**&#x200B;选项。要了解有关不同类型的管理员角色及其权限的详细信息，请参阅[“管理员角色”](admin-roles.md)。
 
-如果您使用的是 Commerce，则共享访问权限以处理支持案例的流程会有所不同。要了解更多信息，请参阅《Adobe Commerce 的 Experience League 支持用户指南》中的[“共享访问：授予其他用户访问您的帐户的权限”](https://experienceleague.adobe.com/zh-hans/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide#shared-access)。
+如果您使用的是 Commerce，则共享访问权限以处理支持案例的流程会有所不同。要了解更多信息，请参阅《Adobe Commerce 的 Experience League 支持用户指南》中的[“共享访问：授予其他用户访问您的帐户的权限”](https://experienceleague.adobe.com/en/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide#shared-access)。
 
 ### 向组织添加支持授权角色
 
@@ -71,21 +71,46 @@ ht-degree: 96%
 
 ### 使用 Experience League 创建支持票证
 
+>[!NOTE]
+>
+> 在提交支持票证之前，请考虑检查[Adobe状态](https://status.adobe.com)网站上的Adobe系统性能、可用性和解决方案问题。
+
 提交支持案例的过程现在直接与 Experience League 支持平台集成。这是一个自助门户，最近经过重新设计，以便为授权客户提供更好的个性化和易用性。
 
-1. 如要通过 [Experience League](https://experienceleague.adobe.com/home?lang=zh-Hans#support) 创建票证，请选择位于顶部导航中的&#x200B;**[!UICONTROL 支持]**&#x200B;选项卡。
+1. 如要通过 [Experience League](https://experienceleague.adobe.com/home#support) 创建票证，请选择位于顶部导航中的&#x200B;**[!UICONTROL 支持]**选项卡。
    ![Experience League 支持选项卡](./assets/experience-league-support-tab.png)
 1. 从支持主页中，您可以轻松导航至未结的支持案例、记录新案例、查看热门支持文章或访问其他学习资源。
    ![Experience League 支持资源](./assets/experience-league-support-resources.png)
-1. 要提交案例，请选择&#x200B;**[!UICONTROL “开立支持票证”]**。此外还要在侧边栏菜单上选择&#x200B;**[!UICONTROL “开立票证”]**&#x200B;选项。您将被引导至案例创建页面，在该页面中可以输入产品名称（Audience Manager、Campaign、Target等）、案例标题和案例描述。为了加快故障排除过程，在描述所遇到的问题时请尽可能详细。
+1. 要提交案例，请选择&#x200B;**[!UICONTROL “开立支持票证”]**。在侧栏菜单上选择&#x200B;**[!UICONTROL 打开票证]**&#x200B;选项。
+
+
+### 填写支持服务单
+
+1. 选择&#x200B;**[!UICONTROL 打开支持票证]**&#x200B;后，您将被定向到案例创建页面，您可以在其中输入产品名称(Audience Manager、Campaign、Target等)、**[!UICONTROL 案例标题]**&#x200B;和&#x200B;**[!UICONTROL 案例描述]**。
+
    ![Experience League 开立票证](./assets/experience-league-open-ticket.png)
-1. 在表单末尾，填写以下字段。选择任何解决方案后，系统会询问以下内容，并且有些解决方案还会有其他字段：
+
+   要加快故障排除过程，请在&#x200B;**[!UICONTROL 案例描述]**&#x200B;字段中添加以下信息：
+
+   * 清除问题陈述
+   * 重现问题的步骤
+   * 业务影响声明
+   * 这是新的实施/功能/开发吗？
+   * 这个过程什么时候起作用的？
+   * 疑难解答已采取的步骤
+   * 相关日志数据
+   * 版本号
+   * 生成信息（如果相关）
+   * 关键标识符
+
+
+1. 选择任何解决方案后，系统会询问以下内容，并且有些解决方案还会有其他字段：
 
    * 案例优先级（低、中、高、关键）
    * 商业影响
    * 客户时区（美洲；欧洲、中东和非洲；亚太地区）
 
-   有关案例优先级和业务影响如何影响支持响应时间的详细信息，请参阅成功计划资源文档中的[支持的目标初始响应时间](https://experienceleague.adobe.com/zh-hans/docs/support-resources/data-sheets/overview#targeted-initial-response-times-for-support)。
+   有关案例优先级和业务影响如何影响支持响应时间的详细信息，请参阅成功计划资源文档中的[支持的目标初始响应时间](https://experienceleague.adobe.com/en/docs/support-resources/data-sheets/overview#targeted-initial-response-times-for-support)。
 
 ![Experience League 票证优先级](./assets/experience-league-ticket-priority.png)
 
