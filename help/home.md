@@ -6,9 +6,9 @@ seo-description: New Adobe Customer Support Experience
 seo-title: Adobe Experience Cloud Customer One for Enterprise
 exl-id: 276e0862-6f7e-491e-b63e-10a50b7238c2
 source-git-commit: 83a4e81a8ba56f2834b811d6840fc8e21ebed026
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '942'
-ht-degree: 87%
+ht-degree: 100%
 
 ---
 
@@ -73,34 +73,34 @@ ht-degree: 87%
 
 >[!NOTE]
 >
-> 在提交支持票证之前，请考虑检查[Adobe状态](https://status.adobe.com)网站上的Adobe系统性能、可用性和解决方案问题。
+> 在提交支持票证之前，请考虑先在 [Adobe 状态](https://status.adobe.com/zh-cn)网站上检查 Adobe 的系统性能、可用性以及解决方案相关问题。
 
 提交支持案例的过程现在直接与 Experience League 支持平台集成。 这是一个自助门户，最近经过重新设计，以便为授权客户提供更好的个性化和易用性。
 
-1. 如要通过 [Experience League](https://experienceleague.adobe.com/home?lang=zh-hans#support) 创建票证，请选择位于顶部导航中的&#x200B;**[!UICONTROL 支持]**&#x200B;选项卡。
+1. 如要通过 [Experience League](https://experienceleague.adobe.com/home?lang=zh-hans#support) 创建票证，请选择位于顶部导航中的&#x200B;**[!UICONTROL 支持]**选项卡。
    ![Experience League 支持选项卡](./assets/experience-league-support-tab.png)
 1. 从支持主页中，您可以轻松导航至未结的支持案例、记录新案例、查看热门支持文章或访问其他学习资源。
    ![Experience League 支持资源](./assets/experience-league-support-resources.png)
-1. 要提交案例，请选择&#x200B;**[!UICONTROL “开立支持票证”]**。 在侧栏菜单上选择&#x200B;**[!UICONTROL 打开票证]**&#x200B;选项。
+1. 要提交案例，请选择&#x200B;**[!UICONTROL “开立支持票证”]**。 同时，请在侧边栏菜单中选择&#x200B;**[!UICONTROL 开立票证]**&#x200B;选项。
 
 
-### 填写支持服务单
+### 填写支持票证
 
-1. 选择&#x200B;**[!UICONTROL 打开支持票证]**&#x200B;后，您将被定向到案例创建页面，您可以在其中输入产品名称(Audience Manager、Campaign、Target等)、**[!UICONTROL 案例标题]**&#x200B;和&#x200B;**[!UICONTROL 案例描述]**。
+1. 在您选择&#x200B;**[!UICONTROL 开立支持票证]**&#x200B;后，系统将引导您进入案例创建页面。在此页面上，您可以输入产品名称（如 Audience Manager、Campaign、Target 等）、**[!UICONTROL 案例标题]**&#x200B;以及&#x200B;**[!UICONTROL 案例描述]**。
 
    ![Experience League 开立票证](./assets/experience-league-open-ticket.png)
 
-   要加快故障排除过程，请在&#x200B;**[!UICONTROL 案例描述]**&#x200B;字段中添加以下信息：
+   为了加速故障排查流程，请在&#x200B;**[!UICONTROL 案例描述]**&#x200B;字段中添加以下信息：
 
-   * 清除问题陈述
-   * 重现问题的步骤
-   * 业务影响声明
-   * 这是新的实施/功能/开发吗？
-   * 这个过程什么时候起作用的？
-   * 疑难解答已采取的步骤
-   * 相关日志数据
+   * 清晰的问题陈述
+   * 复现步骤
+   * 业务影响说明
+   * 这是新实施的功能/特性/开发项目吗？
+   * 之前该流程正常工作的时间是什么时候？
+   * 已采取的故障排查步骤
+   * 相关的日志数据
    * 版本号
-   * 生成信息（如果相关）
+   * 生成信息（如相关）
    * 关键标识符
 
 
