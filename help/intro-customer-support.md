@@ -2,9 +2,8 @@
 title: 宣布推出新的 Adobe 客户支持体验（上一个公告）
 description: 首次与客户沟通以提供新的支持体验
 hide: true
-hidefromtoc: true
 exl-id: bf78dd9e-a47e-4251-8b47-795032a7a673
-source-git-commit: c706e31eb9907a2fe653045a6d093969d0f2f010
+source-git-commit: 533f79ec31fd301fcaa465cd0cfe08904ebff920
 workflow-type: tm+mt
 source-wordcount: '391'
 ht-degree: 85%
