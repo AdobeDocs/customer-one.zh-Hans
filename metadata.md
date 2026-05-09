@@ -1,20 +1,21 @@
 ---
 cloud: Experience Cloud
 solution: Experience Cloud
+product_v2: id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
 type: Documentation
-git-repo: https://github.com/AdobeDocs/customer-one.zh-Hans
+git-repo: https://github.com/AdobeDocs/customer-one.en
 hide: true
-source-git-commit: c706e31eb9907a2fe653045a6d093969d0f2f010
+source-git-commit: b43773cf282854831f1ac616260fb529a3758d7e
 workflow-type: tm+mt
-source-wordcount: '125'
-ht-degree: 0%
+source-wordcount: 125
+ht-degree: 31%
 
 ---
 
 
-# 元数据供内部使用
+# 供内部使用的元数据
 
-metadata.md文件包含存储库级别的元数据，这些元数据会传送到存储库中的用户指南TOC.md文件。 如果要更改任何用户指南的metadata.md内容，请在任何TOC.md文件中进行更改。
+metadata.md 文件包含存储库级别的元数据，这些元数据会传送到存储库中的用户指南 TOC.md 文件。 如果要更改任何用户指南的 metadata.md 内容，请在任何 TOC.md 文件中进行更改。
 
 | 元数据 | 作用 |
 |--- |--- |
