@@ -3,9 +3,12 @@ keywords: FAQ;常见问题解答
 title: Adobe Business Platform 和 Admin Console 常见问题解答
 description: Adobe Workfront 常见问题解答
 exl-id: a0e9f153-bb2d-4077-a957-bf6bfcb44dfd
-source-git-commit: 12a432e20b4447f05b617ba63b4e6baf7a54dfe7
-workflow-type: ht
-source-wordcount: '496'
+TQID: https://experienceleague.adobe.com/6lxvN0hmXbETV9v2VXDv3R7zxrua37YlFb9hSWfG5Gg
+product_v2:
+  - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+source-git-commit: 01e067797ad863514b2bb41c6892f53e4af66752
+workflow-type: tm+mt
+source-wordcount: 507
 ht-degree: 100%
 
 ---
@@ -34,7 +37,7 @@ Adobe Business Platform 为管理员和功能主管提供了最先进的控制�
 
 IMS 是 Adobe Workfront 的 Identity Management 服务的首字母缩略词，它是指……
 
-组织是一个实体，它允许管理员配置组和用户，并控制 Experience Cloud 中的单点登录。组织的作用类似于一个涵盖所有 Experience Cloud 产品和应用程序的登录公司。通常而言，组织是您的公司名称。然而，一个公司可以有多个组织。
+组织是一个实体，它允许管理员配置组和用户，并控制 Experience Cloud 中的单点登录。 组织的作用类似于一个涵盖所有 Experience Cloud 产品和应用程序的登录公司。 通常而言，组织是您的公司名称。 然而，一个公司可以有多个组织。
 
 +++
 
@@ -70,7 +73,7 @@ Adobe Workfront 支持团队将通过实时帮助和指导来迁移客户，以�
 
 +++**如果客户拥有 Adobe 套件中的其他产品，那么迁移到 AAC 时是否会整合管理控制台？**
 
-是！管理控制台在各个 Adobe 产品中是相同的，它为管理员提供了一个使用 Workfront 和几乎所有其他 Adobe 产品的平台。
+是！ 管理控制台在各个 Adobe 产品中是相同的，它为管理员提供了一个使用 Workfront 和几乎所有其他 Adobe 产品的平台。
 
 +++
 
@@ -94,6 +97,6 @@ Adobe Workfront 支持团队将通过实时帮助和指导来迁移客户，以�
 
 +++**有没有理由不迁移到 AAC？**
 
-AAC 将为客户提供 Workfront 未来体验中的最佳更新和增强功能，这对客户而言是重要一步。由于旧版演示控制台即将关闭，因此所有客户都需要在 2023 年底之前迁移到 AAC。
+AAC 将为客户提供 Workfront 未来体验中的最佳更新和增强功能，这对客户而言是重要一步。 由于旧版演示控制台即将关闭，因此所有客户都需要在 2023 年底之前迁移到 AAC。
 
 +++

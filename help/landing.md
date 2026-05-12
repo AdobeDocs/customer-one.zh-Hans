@@ -2,9 +2,17 @@
 title: Workfront Admin Console 登陆页面
 description: Workfront Admin Console 登陆页面
 exl-id: 46687939-d237-47ba-88bf-58550046f5e0
-source-git-commit: 12a432e20b4447f05b617ba63b4e6baf7a54dfe7
-workflow-type: ht
-source-wordcount: '197'
+TQID: https://experienceleague.adobe.com/7MjjoY37MU6vYSMWlzthFRlE3R7FYYmYGP-QduBeNEI
+product_v2:
+  - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+feature_v2:
+  - id: fc7979f3-56c3-43ca-9784-f1ea3dc69c4b
+  - id: fdbb8fc9-ffa3-4b86-88fe-aa4c5a3e1bc6
+topic_v2:
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: 01e067797ad863514b2bb41c6892f53e4af66752
+workflow-type: tm+mt
+source-wordcount: 255
 ht-degree: 100%
 
 ---
@@ -17,7 +25,7 @@ ht-degree: 100%
 
 * 确定需要在其中添加 Workfront 的 Adobe Admin Console。
 
-  如果您已经拥有其他 Adobe 产品，请确认是否愿意将 Adobe Workfront 添加到当前 Adobe Admin Console 中。如果需要更多信息，请使用[此链接](https://helpx.adobe.com/cn/enterprise/using/admin-console.html)以了解管理 Adobe 产品的最佳实践。
+  如果您已经拥有其他 Adobe 产品，请确认是否愿意将 Adobe Workfront 添加到当前 Adobe Admin Console 中。 如果需要更多信息，请使用[此链接](https://helpx.adobe.com/cn/enterprise/using/admin-console.html)以了解管理 Adobe 产品的最佳实践。
 
 * 请参阅[以下链接](https://helpx.adobe.com/cn/enterprise/using/deployment-planning.html)以获取有关部署的帮助。
 * 如果使用了单点登录，则需要将新的 Adobe Admin Console 连接到现有的 SSO 提供商。
@@ -30,4 +38,4 @@ ht-degree: 100%
 
 >[!TIP]
 >
->想要先人一步，提前迁移吗？请通过[此处](https://workfront.az1.qualtrics.com/jfe/form/SV_9T5LuHf05JUOPAi)通知我们。
+>想要先人一步，提前迁移吗？ 请通过[此处](https://workfront.az1.qualtrics.com/jfe/form/SV_9T5LuHf05JUOPAi)通知我们。
