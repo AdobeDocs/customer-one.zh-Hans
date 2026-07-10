@@ -5,9 +5,9 @@ description: 新的 Adobe 客户支持体验
 seo-description: New Adobe Customer Support Experience
 seo-title: Adobe Experience Cloud Customer One for Enterprise
 exl-id: 276e0862-6f7e-491e-b63e-10a50b7238c2
-source-git-commit: 83a4e81a8ba56f2834b811d6840fc8e21ebed026
-workflow-type: ht
-source-wordcount: '942'
+source-git-commit: e207478785c98785a86838cfb2bd34ec82029436
+workflow-type: tm+mt
+source-wordcount: '1006'
 ht-degree: 100%
 
 ---
@@ -77,10 +77,14 @@ ht-degree: 100%
 
 提交支持案例的过程现在直接与 Experience League 支持平台集成。 这是一个自助门户，最近经过重新设计，以便为授权客户提供更好的个性化和易用性。
 
-1. 如要通过 [Experience League](https://experienceleague.adobe.com/home?lang=zh-hans#support) 创建票证，请选择位于顶部导航中的&#x200B;**[!UICONTROL 支持]**选项卡。
+1. 如要通过 [Experience League](https://experienceleague.adobe.com/home?lang=zh-hans#support) 创建票证，请选择位于顶部导航中的&#x200B;**[!UICONTROL 支持]**&#x200B;选项卡。
+
    ![Experience League 支持选项卡](./assets/experience-league-support-tab.png)
+
 1. 从支持主页中，您可以轻松导航至未结的支持案例、记录新案例、查看热门支持文章或访问其他学习资源。
+
    ![Experience League 支持资源](./assets/experience-league-support-resources.png)
+
 1. 要提交案例，请选择&#x200B;**[!UICONTROL “开立支持票证”]**。 同时，请在侧边栏菜单中选择&#x200B;**[!UICONTROL 开立票证]**&#x200B;选项。
 
 
@@ -112,16 +116,11 @@ ht-degree: 100%
 
    有关案例优先级和业务影响对支持响应时间影响的详细信息，请参阅成功计划资源文档中的[获取支持所需的目标初始响应时间](https://experienceleague.adobe.com/zh-hans/docs/support-resources/data-sheets/overview#targeted-initial-response-times-for-support)。
 
-![Experience League 票证优先级](./assets/experience-league-ticket-priority.png)
+   ![Experience League 票证优先级](./assets/experience-league-ticket-priority.png)
 
 >[!TIP]
 >
 > 如果您无法看到 **[!UICONTROL 创建案例]** 选项或 **[!UICONTROL 支持]** 选项卡，您需要联系系统管理员，让其为您分配支持管理员角色。
-
-
-
-
-
 
 
 

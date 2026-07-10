@@ -4,12 +4,11 @@ description: 首次与客户沟通以提供新的支持体验
 hide: true
 exl-id: bf78dd9e-a47e-4251-8b47-795032a7a673
 TQID: https://experienceleague.adobe.com/A-cIJVAyzKevvnXYjPPanUuA1usfTLn2GK52Vj36iJc
-product_v2:
-  - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
-source-git-commit: 01e067797ad863514b2bb41c6892f53e4af66752
+product_v2: id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+source-git-commit: e207478785c98785a86838cfb2bd34ec82029436
 workflow-type: tm+mt
-source-wordcount: 391
-ht-degree: 85%
+source-wordcount: 409
+ht-degree: 86%
 
 ---
 
@@ -19,8 +18,7 @@ ht-degree: 85%
 
 ## 更多信息
 
-在 2 月和 3 月，Adobe 将在此门户中同时设置新的支持系统管理员和支持用户。 如果我们的记录显示您当前在Adobe Admin Console中担任支持系统管理员 — 或者 — 您的姓名在购买合同中被列为Adobe在组织中部署Adobe Campaign和/或Adobe Experience Manager的客户联系人，则您将被设置为组织的支持系统管理员。
-支持系统管理员将在 Admin Console 中行使充当超级用户的权力，并且每当有新的支持用户创建时，支持系统管理员都会看到系统生成的电子邮件。 此外，他们还将能够：
+在 2 月和 3 月，Adobe 将在此门户中同时设置新的支持系统管理员和支持用户。 如果我们的记录显示您当前在Adobe Admin Console中担任支持系统管理员 — 或者 — 您的姓名在购买合同中被列为Adobe在组织中部署Adobe Campaign和/或Adobe Experience Manager的客户联系人，则您将被设置为组织的支持系统管理员。支持系统管理员将在 Admin Console 中行使充当超级用户的权力，并且每当有新的支持用户创建时，支持系统管理员都会看到系统生成的电子邮件。 此外，他们还将能够：
 
 * 在门户中创建/删除支持用户，并管理访问角色
 * 利用案例管理工具，借助 Adobe 客户支持可以更轻松地处理支持案例
@@ -49,3 +47,4 @@ ht-degree: 85%
 * 客户开始使用新系统
 
 如果您对这封电子邮件有任何疑问，请通过 [customercare@adobe.com](mailto:customercare@adobe.com) 与我们联系。
+
