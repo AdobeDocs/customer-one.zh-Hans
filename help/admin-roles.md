@@ -3,10 +3,17 @@ title: 管理角色
 description: 使用 Adobe Admin Console，组织可以定义灵活的管理层级结构，以便对 Adobe 产品的访问和使用进行精细管理。
 exl-id: bfee66b5-d7bb-4ecb-8d22-efb68611ecc8
 TQID: https://experienceleague.adobe.com/dINx5tcEsTAUsH7bnbtHTcW8FUnnUHBeiqitGqeaMps
-product_v2: id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
-feature_v2: id: fdbb8fc9-ffa3-4b86-88fe-aa4c5a3e1bc6
-subfeature_v2: id: b75843fa-0a67-4a44-a6b1-cc627b0481dcid: bdea9bc8-5600-45db-b85e-d74bb59dfcffid: d901b097-46a8-4d66-aaed-6f7b45e5d1deid: f1299f18-ec4b-4531-b2a2-df3b94ff9a68
-topic_v2: id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+product_v2:
+  - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+feature_v2:
+  - id: fdbb8fc9-ffa3-4b86-88fe-aa4c5a3e1bc6
+subfeature_v2:
+  - id: b75843fa-0a67-4a44-a6b1-cc627b0481dc
+  - id: bdea9bc8-5600-45db-b85e-d74bb59dfcff
+  - id: d901b097-46a8-4d66-aaed-6f7b45e5d1de
+  - id: f1299f18-ec4b-4531-b2a2-df3b94ff9a68
+topic_v2:
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
 source-git-commit: e207478785c98785a86838cfb2bd34ec82029436
 workflow-type: tm+mt
 source-wordcount: 1647
@@ -32,7 +39,7 @@ ht-degree: 97%
 
 >[!NOTE]
 >
->管理层级不适用于团队客户。 团队客户有&#x200B;**系统管理员**&#x200B;角色。 合同所有者（_以前称为&#x200B;**主管理员**_）是系统管理员，有权访问合同详细信息和计费历史记录。 如果您是当前合同所有者，则可以提名现有系统管理员（_&#x200B;以前称为&#x200B;**辅助管理员**_）作为合同所有者。
+>管理层级不适用于团队客户。 团队客户有&#x200B;**系统管理员**&#x200B;角色。 合同所有者（_以前称为&#x200B;**主管理员**&#x200B;_）是系统管理员，有权访问合同详细信息和计费历史记录。 如果您是当前合同所有者，则可以提名现有系统管理员（_&#x200B;以前称为&#x200B;**辅助管理员**&#x200B;_）作为合同所有者。
 
 ![管理员图像](assets/storage_admin.png)
 
