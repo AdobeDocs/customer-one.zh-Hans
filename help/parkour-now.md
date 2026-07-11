@@ -6,7 +6,7 @@ exl-id: 6d0653a9-3a2a-4747-b8ec-bea48597cf01
 TQID: https://experienceleague.adobe.com/7A-slw01d3JP1PTJsx-JxobzrwWPCGdQgwT2T2B8QAA
 product_v2:
   - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
-source-git-commit: 01e067797ad863514b2bb41c6892f53e4af66752
+source-git-commit: e207478785c98785a86838cfb2bd34ec82029436
 workflow-type: tm+mt
 source-wordcount: 459
 ht-degree: 100%
@@ -58,3 +58,4 @@ ht-degree: 100%
 
 * Adobe 在 Adobe Admin Console 门户上启动对这些产品的支持访问
 * 客户可以开始使用门户系统连接对 Adobe Analytics、Target 和 Audience Manager 的 Adobe 客户支持
+
