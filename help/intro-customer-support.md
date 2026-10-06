@@ -6,20 +6,20 @@ exl-id: bf78dd9e-a47e-4251-8b47-795032a7a673
 TQID: https://experienceleague.adobe.com/A-cIJVAyzKevvnXYjPPanUuA1usfTLn2GK52Vj36iJc
 product_v2:
   - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
-source-git-commit: e207478785c98785a86838cfb2bd34ec82029436
+    internal-label: CX Enterprise
+source-git-commit: 946890c211dddb04752df2e6b53d13c4b2e0913c
 workflow-type: tm+mt
-source-wordcount: 409
+source-wordcount: '409'
 ht-degree: 86%
-
 ---
-
 # 新的 Adobe 客户支持体验
 
 我们关心客户，并努力使我们的客户在需要帮助时更轻松地从 Adobe 客户支持获取帮助 - 这里我们从 Adobe Experience Manager 和 Campaign 产品开始。 我们的愿景是通过迁移到现代化的入门门户 Adobe Admin Console 支持门户来简化支持体验。 我们计划于 2020 年 5 月推出这些更改。 一旦上线，您的组织将可以访问 Adobe 客户支持；通过公共入口门户更深入地了解您的服务历史；并且，在此单一门户，通过电话、网络和聊天请求帮助。
 
 ## 更多信息
 
-在 2 月和 3 月，Adobe 将在此门户中同时设置新的支持系统管理员和支持用户。 如果我们的记录显示您当前在Adobe Admin Console中担任支持系统管理员 — 或者 — 您的姓名在购买合同中被列为Adobe在组织中部署Adobe Campaign和/或Adobe Experience Manager的客户联系人，则您将被设置为组织的支持系统管理员。支持系统管理员将在 Admin Console 中行使充当超级用户的权力，并且每当有新的支持用户创建时，支持系统管理员都会看到系统生成的电子邮件。 此外，他们还将能够：
+在 2 月和 3 月，Adobe 将在此门户中同时设置新的支持系统管理员和支持用户。 如果我们的记录显示您当前在Adobe Admin Console中担任支持系统管理员 — 或者 — 您的姓名在购买合同中被列为Adobe在组织中部署Adobe Campaign和/或Adobe Experience Manager的客户联系人，则您将被设置为组织的支持系统管理员。
+支持系统管理员将在 Admin Console 中行使充当超级用户的权力，并且每当有新的支持用户创建时，支持系统管理员都会看到系统生成的电子邮件。 此外，他们还将能够：
 
 * 在门户中创建/删除支持用户，并管理访问角色
 * 利用案例管理工具，借助 Adobe 客户支持可以更轻松地处理支持案例
